@@ -7,7 +7,7 @@ Systems & Security Engineer
 
     OS/Systems: Arch, Void, Gentoo, Debian, Cachys, Fedora, NixOS
 
-    Expertise: Network Security, OSINT, Encryption, Obfuscation
+    Expertise: Network Security, OSINT, Encryption, Obfuscation, Pentest
 
 02. Projects
 
