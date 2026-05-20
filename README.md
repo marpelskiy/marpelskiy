@@ -25,4 +25,3 @@ Systems & Security Engineer
 
     Email: marpelskiy98@cocaine.ninja
 
-    GitHub: github.com/marpelskiy
