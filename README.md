@@ -15,7 +15,7 @@ Systems & Security Engineer
 
     pySniff — Smart WiFi sniffer with TG integration.
 
-    Cryptom — AES-256-GCM + ChaCha20-Poly1305 toolkit.
+    Crypton — AES-256-GCM + ChaCha20-Poly1305 toolkit.
 
     C0ck Obfuscator — Custom file obfuscation engine.
 
