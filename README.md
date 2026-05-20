@@ -1,6 +1,6 @@
 marpelskiy
 
-<a href="https://un-sec.github.io" target="_blank" rel="noopener noreferrer">команда un-sec</a>
+<a href="https://un-sec.github.io" target="_blank" rel="noopener noreferrer">команда un-sec</a> 👈
 
 Systems & Security Engineer
 01. Tech Stack
