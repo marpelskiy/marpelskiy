@@ -1,8 +1,6 @@
-
-
 struct Developer {
-    const char* stack[] = {"Osint" , "C++", "Python", "Assembly", "C" , "JavaScript"};
-    const char* os[]    = {"Arch", "Void", "Gentoo" , "Debian" , "Cachys" , "Fedora" , "NixOS"};
+    const char* stack[] = {"Osint", "C++", "Python", "Assembly", "C", "JavaScript"};
+    const char* os[]    = {"Arch", "Void", "Gentoo", "Debian", "Cachys", "Fedora", "NixOS"};
 };
 
 namespace Tools {
