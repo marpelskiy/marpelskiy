@@ -3,7 +3,7 @@ marpelskiy
 Systems & Security Engineer
 01. Tech Stack
 
-    Languages: C++, C, Python, Assembly, JavaScript
+    Languages: C++, C, Python, Assembly, JavaScript, Arduino
 
     OS/Systems: Arch, Void, Gentoo, Debian, Cachys, Fedora, NixOS
 
