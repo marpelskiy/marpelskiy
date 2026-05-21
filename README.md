@@ -21,7 +21,7 @@ Systems & Security Engineer
 
     C0ck Obfuscator — Custom file obfuscation engine.
 
-    webSosint - web osint tool
+   webSosint — Domain intelligence & OSINT tool.
 
 4. Contact
 
