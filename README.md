@@ -27,3 +27,25 @@ Systems & Security Engineer
 
     Email: marpelskiy98@cocaine.ninja
 
+04. Closed Cases
+
+```txt
+[ mineblaze.net ]
+└─ 10 vulnerabilities found in 1 hour
+   status: CLOSED
+
+[ tgpremka ]
+└─ 13 vulnerabilities found in 34 minutes
+   status: CLOSED
+
+[ musteryworld.net ]
+└─ 10 vulnerabilities found in 40 minutes
+   status: CLOSED
+
+[ dexland.org ]
+└─ 10 vulnerabilities found in 1 hour
+   status: CLOSED
+
+[ lainlife.ru ]
+└─ 19 vulnerabilities found in ~2 hours (team work)
+   status: CLOSED
