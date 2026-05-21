@@ -21,13 +21,15 @@ Systems & Security Engineer
 
     C0ck Obfuscator — Custom file obfuscation engine.
 
-03. Contact
+    webSosint - web osint tool
+
+4. Contact
 
     Telegram: @Localhost54
 
     Email: marpelskiy98@cocaine.ninja
 
-04. Closed Cases
+5. Closed Cases
 
 ```txt
 [ mineblaze.net ]
