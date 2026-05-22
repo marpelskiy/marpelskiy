@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- HEX-ДЕКОР НАД НИКОМ -->
-<div style="font-family: 'JetBrains Mono', monospace; font-size: 16px; font-weight: bold; color: #00ff99; letter-spacing: 4px; margin-bottom: 10px; opacity: 0.85;">
+<div style="font-family: 'JetBrains Mono', monospace; font-size: 18px; font-weight: bold; color: #00ff99; letter-spacing: 6px; margin-bottom: 12px; opacity: 0.9;">
   6D 61 72 70 65 6C
 </div>
 
 <!-- ЛОГОТИП MARPELSKIY -->
-<svg width="650" height="120" viewBox="0 0 650 120" xmlns="http://www.w3.org/2000/svg">
+<svg width="750" height="140" viewBox="0 0 750 140" xmlns="http://www.w3.org/2000/svg">
   <!-- Фоновое свечение (Glow effect) -->
   <defs>
     <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feGaussianBlur stdDeviation="6" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
@@ -19,21 +19,17 @@
   </defs>
 
   <!-- Декоративные хакерские элементы по бокам -->
-  <path d="M 10 30 L 50 30 L 60 40 M 10 30 L 10 90 L 20 100" stroke="#00ff99" stroke-width="2" fill="none" opacity="0.6"/>
-  <path d="M 640 90 L 600 90 L 590 80 M 640 90 L 640 30 L 630 20" stroke="#00ff99" stroke-width="2" fill="none" opacity="0.6"/>
-  
-  <!-- Двоичный бэкграунд на фоне (Binary decor) -->
-  <text x="70" y="25" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="10" opacity="0.15">01001101 01000001</text>
-  <text x="490" y="105" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="10" opacity="0.15">01011001 00001010</text>
+  <path d="M 15 35 L 55 35 L 65 45 M 15 35 L 15 105 L 25 115" stroke="#00ff99" stroke-width="2.5" fill="none" opacity="0.7"/>
+  <path d="M 735 105 L 695 105 L 685 95 M 735 105 L 735 35 L 725 25" stroke="#00ff99" stroke-width="2.5" fill="none" opacity="0.7"/>
 
-  <!-- Главный текст: крупный, жирный, статичный -->
-  <text x="50%" y="75" fill="#00ff99" font-family="Impact, 'Arial Black', sans-serif" font-size="64" font-weight="900" letter-spacing="8" text-anchor="middle" filter="url(#glow)">
+  <!-- Главный текст: ЕЩЕ БОЛЬШЕ И ЖИРНЕЕ -->
+  <text x="50%" y="85" fill="#00ff99" font-family="Impact, 'Arial Black', sans-serif" font-size="76" font-weight="900" letter-spacing="10" text-anchor="middle" filter="url(#glow)">
     MARPELSKIY
   </text>
 
   <!-- Нижняя подчеркивающая линия в стиле интерфейса -->
-  <line x1="150" y1="95" x2="500" y2="95" stroke="#00ff99" stroke-width="3" opacity="0.8" />
-  <rect x="310" y="92" width="30" height="7" fill="#00ff99" />
+  <line x1="180" y1="110" x2="570" y2="110" stroke="#00ff99" stroke-width="3.5" opacity="0.8" />
+  <rect x="360" y="106" width="30" height="8" fill="#00ff99" />
 </svg>
 
 <br>
@@ -52,8 +48,8 @@
 
 <!-- ЗАГОЛОВОК 1: TECHNICAL PROFILE -->
 <div align="center">
-  <svg width="500" height="60" viewBox="0 0 500 60" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="38" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="30" font-weight="900" letter-spacing="2" text-anchor="middle">
+  <svg width="600" height="70" viewBox="0 0 600 70" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="45" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="38" font-weight="900" letter-spacing="2" text-anchor="middle">
       // TECHNICAL PROFILE
     </text>
   </svg>
@@ -103,8 +99,8 @@
 
 <!-- ЗАГОЛОВОК 2: PROJECTS -->
 <div align="center">
-  <svg width="350" height="60" viewBox="0 0 350 60" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="38" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="30" font-weight="900" letter-spacing="2" text-anchor="middle">
+  <svg width="400" height="70" viewBox="0 0 400 70" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="45" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="38" font-weight="900" letter-spacing="2" text-anchor="middle">
       // PROJECTS
     </text>
   </svg>
@@ -141,8 +137,8 @@
 
 <!-- ЗАГОЛОВОК 3: OPERATIONS / CLOSED CASES -->
 <div align="center">
-  <svg width="600" height="60" viewBox="0 0 600 60" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="38" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="30" font-weight="900" letter-spacing="2" text-anchor="middle">
+  <svg width="750" height="70" viewBox="0 0 750 70" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="45" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="38" font-weight="900" letter-spacing="2" text-anchor="middle">
       // OPERATIONS / CLOSED CASES
     </text>
   </svg>
@@ -247,8 +243,8 @@
 
 <!-- ЗАГОЛОВОК 4: TEAM -->
 <div align="center">
-  <svg width="300" height="60" viewBox="0 0 300 60" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="38" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="30" font-weight="900" letter-spacing="2" text-anchor="middle">
+  <svg width="350" height="70" viewBox="0 0 350 70" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="45" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="38" font-weight="900" letter-spacing="2" text-anchor="middle">
       // TEAM
     </text>
   </svg>
@@ -268,8 +264,8 @@
 
 <!-- ЗАГОЛОВОК 5: CONTACT -->
 <div align="center">
-  <svg width="350" height="60" viewBox="0 0 350 60" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="38" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="30" font-weight="900" letter-spacing="2" text-anchor="middle">
+  <svg width="400" height="70" viewBox="0 0 400 70" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="45" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="38" font-weight="900" letter-spacing="2" text-anchor="middle">
       // CONTACT
     </text>
   </svg>
