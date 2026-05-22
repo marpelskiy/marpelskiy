@@ -1,15 +1,14 @@
-````md
 <div align="center">
 
 # marpelskiy
 
 <a href="https://un-sec.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/un--sec-team-00ff99?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/un--sec-team-00ff99?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Systems+%26+Security+Engineer;OSINT+%7C+Pentest+%7C+Encryption;C%2FC%2B%2B+%7C+Python+%7C+Assembly;Linux+Power+User;member+of+un-sec" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Systems+%26+Security+Engineer;OSINT+%7C+Pentest+%7C+Reverse+Engineering;C%2FC%2B%2B+%7C+Python+%7C+Assembly;Linux+Power+User;member+of+un-sec" />
 
 <br><br>
 
@@ -25,13 +24,11 @@ $ whoami
 marpelskiy
 Systems & Security Engineer
 member of un-sec
-````
-
-<br>
+```
 
 <div align="center">
 
-<img src="https://media.tenor.com/oqyUP8olluoAAAAd/hacker-hacking.gif" width="100%"/>
+<img src="https://i.gifer.com/7VE.gif" width="100%"/>
 
 </div>
 
@@ -41,21 +38,21 @@ member of un-sec
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge\&logo=c%2B%2B)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge\&logo=c)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
-![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge\&logo=arduino)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino)
 
 ### Systems
 
-![Arch](https://img.shields.io/badge/Arch-111111?style=for-the-badge\&logo=arch-linux)
+![Arch](https://img.shields.io/badge/Arch-111111?style=for-the-badge&logo=arch-linux)
 ![Void](https://img.shields.io/badge/Void-111111?style=for-the-badge)
-![Gentoo](https://img.shields.io/badge/Gentoo-111111?style=for-the-badge\&logo=gentoo)
-![Debian](https://img.shields.io/badge/Debian-111111?style=for-the-badge\&logo=debian)
-![Fedora](https://img.shields.io/badge/Fedora-111111?style=for-the-badge\&logo=fedora)
-![NixOS](https://img.shields.io/badge/NixOS-111111?style=for-the-badge\&logo=nixos)
+![Gentoo](https://img.shields.io/badge/Gentoo-111111?style=for-the-badge&logo=gentoo)
+![Debian](https://img.shields.io/badge/Debian-111111?style=for-the-badge&logo=debian)
+![Fedora](https://img.shields.io/badge/Fedora-111111?style=for-the-badge&logo=fedora)
+![NixOS](https://img.shields.io/badge/NixOS-111111?style=for-the-badge&logo=nixos)
 
 ### Expertise
 
@@ -70,18 +67,17 @@ Reverse Engineering
 
 ---
 
-# Projects
-
 <div align="center">
 
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAd/coding.gif" width="100%"/>
+<img src="https://i.gifer.com/YCZH.gif" width="100%"/>
 
 </div>
 
 ---
 
-## Answer Now
+# Projects
 
+## Answer Now
 AI-powered automated test solver.
 
 ```python
@@ -93,7 +89,6 @@ generate_answer()
 ---
 
 ## pySniff
-
 Smart WiFi sniffer with Telegram integration.
 
 ```bash
@@ -103,7 +98,6 @@ capture -> analyze -> telegram
 ---
 
 ## Crypton
-
 AES-256-GCM + ChaCha20-Poly1305 toolkit.
 
 ```cpp
@@ -115,7 +109,6 @@ wipe_traces();
 ---
 
 ## C0ck Obfuscator
-
 Custom file obfuscation engine.
 
 ```txt
@@ -125,7 +118,6 @@ mutate -> encrypt -> obfuscate
 ---
 
 ## webSosint
-
 Domain intelligence, Google dork generator & OSINT framework.
 
 ```bash
@@ -136,15 +128,15 @@ dork()
 
 ---
 
-# Closed Cases
-
 <div align="center">
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" width="100%"/>
+<img src="https://i.gifer.com/75ez.gif" width="100%"/>
 
 </div>
 
 ---
+
+# Closed Cases
 
 ```txt
 [ mineblaze.net ]
@@ -180,7 +172,7 @@ dork()
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=marpelskiy&theme=matrix&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=marpelskiy&theme=matrix&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -200,4 +192,3 @@ Email    : marpelskiy98@cocaine.ninja
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=140&section=footer"/>
 
 </div>
-```
