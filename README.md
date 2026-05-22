@@ -12,7 +12,14 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!-- PENTEST MOVING BACKGROUND (snake replacement style) -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="0"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=180&section=header&text=PENTEST%20STACK&fontSize=30&fontColor=000000&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=800&color=00FF99&center=true&vCenter=true&width=900&lines=Nmap+%E2%96%B8+Network+Scanning+Engine;Wireshark+%E2%96%B8+Packet+Analysis;Burp+Suite+%E2%96%B8+Web+Exploitation;SQLmap+%E2%96%B8+SQL+Injection+Automation;Metasploit+%E2%96%B8+Exploit+Framework;Aircrack-ng+%E2%96%B8+Wireless+Attacks" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff99&height=120&section=footer"/>
 
 </div>
 
@@ -25,21 +32,6 @@ marpelskiy
 Systems & Security Engineer
 member of un-sec
 ```
-
----
-
-<div align="center">
-
-## Pentest Toolkit
-
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=linux&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logo=sqlite&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff99"/>
-
-</div>
 
 ---
 
@@ -60,9 +52,9 @@ member of un-sec
 Network Security
 OSINT
 Penetration Testing
-Web Exploitation
-Encryption
 Reverse Engineering
+Encryption
+Exploit Development
 ```
 
 ---
@@ -153,10 +145,6 @@ dork()
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=marpelskiy&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marpelskiy&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=marpelskiy&theme=matrix&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
