@@ -1,4 +1,7 @@
-```html
+
+
+---
+
 <div align="center">
 
 # marpelskiy
@@ -19,25 +22,15 @@
 
 <div align="center">
 
-```
-
 LANGUAGES:
 C++ | C | Python | Assembly | JavaScript | Arduino
 
-```
-
-<br>
-
-```
+<br><br>
 
 SYSTEMS:
 Arch Linux | Void Linux | Gentoo | Debian | Fedora | NixOS
 
-```
-
-<br>
-
-```
+<br><br>
 
 EXPERTISE:
 Network Security Engineering
@@ -45,8 +38,6 @@ OSINT & Reconnaissance Systems
 Cryptography & Secure Systems Design
 Web Application Penetration Testing
 Reverse Engineering & Binary Analysis
-
-```
 
 </div>
 
@@ -56,24 +47,28 @@ Reverse Engineering & Binary Analysis
 
 <div align="center">
 
-```
-
 Answer Now
 AI-powered automated test solver with automation logic and adaptive response generation.
+
+<br><br>
 
 pySniff
 Advanced WiFi packet sniffer with Telegram-based alerting and traffic analysis.
 
+<br><br>
+
 Crypton
 Cryptographic toolkit implementing AES-256-GCM and ChaCha20-Poly1305 secure encryption layers.
+
+<br><br>
 
 C0ck Obfuscator
 File obfuscation engine designed for binary transformation and signature evasion research.
 
+<br><br>
+
 webSosint
 OSINT and domain intelligence framework with integrated Google dorking automation system.
-
-```
 
 </div>
 
@@ -83,29 +78,33 @@ OSINT and domain intelligence framework with integrated Google dorking automatio
 
 <div align="center">
 
-```
-
 [ mineblaze.net ]
 → 10 vulnerabilities discovered in 1 hour
 → status: CLOSED
+
+<br>
 
 [ tgpremka ]
 → 13 vulnerabilities discovered in 34 minutes
 → status: CLOSED
 
+<br>
+
 [ musteryworld.net ]
 → 10 vulnerabilities discovered in 40 minutes
 → status: CLOSED
+
+<br>
 
 [ dexland.org ]
 → 10 vulnerabilities discovered in 1 hour
 → status: CLOSED
 
+<br>
+
 [ lainlife.ru ]
 → 19 vulnerabilities discovered in ~2 hours
 → status: CLOSED
-
-```
 
 </div>
 
@@ -115,11 +114,7 @@ OSINT and domain intelligence framework with integrated Google dorking automatio
 
 <div align="center">
 
-```
-
 [https://un-sec.github.io](https://un-sec.github.io)
-
-```
 
 </div>
 
@@ -129,18 +124,19 @@ OSINT and domain intelligence framework with integrated Google dorking automatio
 
 <div align="center">
 
-```
-
 Telegram: @Localhost54
 Email: [marpelskiy98@cocaine.ninja](mailto:marpelskiy98@cocaine.ninja)
-
-```
 
 </div>
 
 ---
 
 <div align="center">
+
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJncmJ4MHBnaW5scWJ3ZXhndnBsM2F3c2xrb2E0MDBtY3RpNTM4dSZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9Zw/7fuXkuvgjXp9v7M6y9/giphy.gif" width="55%"/>
+
 </div>
-```
+
+---
+
+
