@@ -19,12 +19,24 @@
 <div align="center">
 
 <h3>LANGUAGES</h3>
-<b>C++ | C | Python | Assembly | JavaScript | Arduino</b>
+<b>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="22" height="22" valign="middle"/> C++ &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="22" height="22" valign="middle"/> C &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22" height="22" valign="middle"/> Python &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="22" height="22" valign="middle"/> JavaScript &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="22" height="22" valign="middle"/> Arduino
+</b>
 
 <br><br>
 
 <h3>SYSTEMS</h3>
-<b>Arch Linux | Void Linux | Gentoo | Debian | Fedora | NixOS</b>
+<b>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="22" height="22" valign="middle"/> Arch Linux &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gentoo/gentoo-original.svg" width="22" height="22" valign="middle"/> Gentoo &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="22" height="22" valign="middle"/> Debian &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="22" height="22" valign="middle"/> Fedora &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" width="22" height="22" valign="middle"/> NixOS
+</b>
 
 <br><br>
 
