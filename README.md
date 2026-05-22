@@ -14,7 +14,10 @@
 
 ---
 
-<h2 align="center">TECHNICAL PROFILE</h2>
+<h2 align="center">
+  <img src="https://api.iconify.design/svg-spinners:pulse-2.svg?color=%2300ff99" width="22" height="22" valign="middle"/> 
+  <code>[ 0x01 // TECHNICAL PROFILE ]</code>
+</h2>
 
 <div align="center">
 
@@ -58,7 +61,10 @@
 
 ---
 
-<h2 align="center">PROJECTS</h2>
+<h2 align="center">
+  <img src="https://api.iconify.design/svg-spinners:pulse-2.svg?color=%2300ff99" width="22" height="22" valign="middle"/> 
+  <code>[ 0x02 // PROJECTS ]</code>
+</h2>
 
 <div align="center">
 
@@ -89,7 +95,10 @@
 
 ---
 
-<h2 align="center">OPERATIONS / CLOSED CASES</h2>
+<h2 align="center">
+  <img src="https://api.iconify.design/svg-spinners:pulse-2.svg?color=%2300ff99" width="22" height="22" valign="middle"/> 
+  <code>[ 0x03 // OPERATIONS / CLOSED CASES ]</code>
+</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 14px; justify-content: center; margin-top: 20px;">
 
@@ -188,7 +197,10 @@
 
 ---
 
-<h2 align="center">TEAM</h2>
+<h2 align="center">
+  <img src="https://api.iconify.design/svg-spinners:pulse-2.svg?color=%2300ff99" width="22" height="22" valign="middle"/> 
+  <code>[ 0x04 // TEAM ]</code>
+</h2>
 
 <div align="center">
 
@@ -202,7 +214,10 @@
 
 ---
 
-<h2 align="center">CONTACT</h2>
+<h2 align="center">
+  <img src="https://api.iconify.design/svg-spinners:pulse-2.svg?color=%2300ff99" width="22" height="22" valign="middle"/> 
+  <code>[ 0x05 // CONTACT ]</code>
+</h2>
 
 <div align="center">
 
