@@ -126,7 +126,7 @@
 
 <b>→ 9 vulnerabilities discovered in 4 hours</b><br>
 <b>→ 8 classified as <span style="color:#ff3b3b;">CRITICAL</span></b><br>
-<b>→ coordinated <span style="color:#00ff99;">team effort</span></b><br>
+<b>→ <span style="color:#00ff99;">team work</span></b><br>
 
 <b>status: <span style="color:#00ff99;">CLOSED</span></b>
 
