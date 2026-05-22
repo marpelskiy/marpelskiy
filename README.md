@@ -103,9 +103,12 @@ Email: marpelskiy98@cocaine.ninja
 
 <div align="center">
 
-<img src="https://media.tenor.com/7Xk0Q5bGq8MAAAAC/glitch-matrix-dark.gif" width="48%"/>
-<img src="https://media.tenor.com/3bQ8m7k2rYcAAAAC/hacker-terminal-code.gif" width="48%"/>
+<!-- GLITCH TERMINAL MONITOR (BOTTOM ANIMATION) -->
+<img src="https://media.tenor.com/8qZQn7b9qQ0AAAAC/broken-screen-glitch.gif" width="45%"/>
+<img src="https://media.tenor.com/7QJkz8G3k9MAAAAC/code-hacking.gif" width="45%"/>
 
 <br><br>
+
+<img src="https://media.tenor.com/2Y8g5Z0w9w4AAAAC/terminal-hacker.gif" width="70%"/>
 
 </div>
