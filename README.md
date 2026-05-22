@@ -89,15 +89,79 @@
 
 <h2 align="center">OPERATIONS / CLOSED CASES</h2>
 
-| Target / Operation | Time Spent | Vulnerabilities | Critical | Status / Details |
-| :--- | :---: | :---: | :---: | :--- |
-| 🎯 **`mineblaze.net`** | 1 hour | **10** | **8** | 🟢 **CLOSED** (Teamwork with *Agent231-src*) |
-| 🎯 **`lainlife.ru`** | ~2 hours | **19** | **7** | 🟢 **CLOSED** (Coordinated *un-sec* effort) |
-| 🎯 **`openvk.org`** | 4 hours | **9** | **8** | 🟢 **CLOSED** (Coordinated *un-sec* effort) |
-| 🎯 **`tgpremka`** | 34 min | **13** | — | 🟢 **CLOSED** (Solo audit) |
-| 🎯 **`musteryworld.net`** | 40 min | **10** | — | 🟢 **CLOSED** (Solo audit) |
-| 🎯 **`dexland.org`** | 1 hour | **10** | — | 🟢 **CLOSED** (Solo audit) |
-| 🧠 **`s010vloon`** | — | — | — | 🟢 **CLOSED** (Internal tools database updated) |
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 14px; justify-content: center; margin-top: 20px;">
+
+  <!-- CASE 1 -->
+  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
+    <h4 style="margin: 0 0 8px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace;">🎯 mineblaze.net</h4>
+    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
+      • <b>10 уязвимостей</b> за 1 час<br>
+      • <span style="color: #ff7b72;">8 критических (CRITICAL)</span><br>
+      • В команде с <i>Agent231-src</i>
+    </p>
+  </div>
+
+  <!-- CASE 2 -->
+  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
+    <h4 style="margin: 0 0 8px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace;">🎯 tgpremka</h4>
+    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
+      • <b>13 уязвимостей</b> обнаружено<br>
+      • Время работы: 34 минуты<br>
+      • Статус: <span style="color: #58a6ff;">SOLO AUDIT</span>
+    </p>
+  </div>
+
+  <!-- CASE 3 -->
+  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
+    <h4 style="margin: 0 0 8px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace;">🎯 musteryworld.net</h4>
+    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
+      • <b>10 уязвимостей</b> обнаружено<br>
+      • Время работы: 40 минут<br>
+      • Статус: <span style="color: #58a6ff;">SOLO AUDIT</span>
+    </p>
+  </div>
+
+  <!-- CASE 4 -->
+  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
+    <h4 style="margin: 0 0 8px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace;">🎯 dexland.org</h4>
+    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
+      • <b>10 уязвимостей</b> обнаружено<br>
+      • Время работы: 1 час<br>
+      • Статус: <span style="color: #58a6ff;">SOLO AUDIT</span>
+    </p>
+  </div>
+
+  <!-- CASE 5 -->
+  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
+    <h4 style="margin: 0 0 8px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace;">🎯 lainlife.ru</h4>
+    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
+      • <b>19 уязвимостей</b> за ~2 часа<br>
+      • <span style="color: #ff7b72;">7 критических (CRITICAL)</span><br>
+      • Работа команды <i>un-sec</i>
+    </p>
+  </div>
+
+  <!-- CASE 6 -->
+  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
+    <h4 style="margin: 0 0 8px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace;">🎯 openvk.org</h4>
+    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
+      • <b>9 уязвимостей</b> за 4 часа<br>
+      • <span style="color: #ff7b72;">8 критических (CRITICAL)</span><br>
+      • Работа команды <i>un-sec</i>
+    </p>
+  </div>
+
+  <!-- CASE 7 -->
+  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
+    <h4 style="margin: 0 0 8px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace;">🧠 s010vloon</h4>
+    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
+      • <b>Сотрудничество</b><br>
+      • Предоставлено 3 софта в КБ<br>
+      • Интеграция в общую базу данных
+    </p>
+  </div>
+
+</div>
 
 ---
 
