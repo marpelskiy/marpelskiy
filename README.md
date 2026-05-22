@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- HEX-ДЕКОР НАД НИКОМ -->
-<div style="font-family: 'JetBrains Mono', monospace; font-size: 22px; font-weight: 900; color: #00ff99; letter-spacing: 8px; margin-bottom: 15px; opacity: 1;">
+<div style="font-family: 'JetBrains Mono', monospace; font-size: 24px; font-weight: 900; color: #00ff99; letter-spacing: 8px; margin-bottom: 5px;">
   6D 61 72 70 65 6C
 </div>
 
-<!-- ЛОГОТИП MARPELSKIY -->
-<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
-  <!-- Фоновое свечение (Glow effect) -->
+<svg width="100%" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%;">
   <defs>
     <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feGaussianBlur stdDeviation="6" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
@@ -18,18 +15,15 @@
     </filter>
   </defs>
 
-  <!-- Утолщенные декоративные хакерские элементы по бокам -->
-  <path d="M 20 40 L 70 40 L 82 52 M 20 40 L 20 120 L 32 132" stroke="#00ff99" stroke-width="4" fill="none" opacity="0.85"/>
-  <path d="M 880 120 L 830 120 L 818 108 M 880 120 L 880 40 L 868 28" stroke="#00ff99" stroke-width="4" fill="none" opacity="0.85"/>
+  <path d="M 15 25 L 45 25 L 53 33 M 15 25 L 15 75 L 23 83" stroke="#00ff99" stroke-width="4.5" fill="none" opacity="0.9"/>
+  <path d="M 785 75 L 755 75 L 747 67 M 785 75 L 785 25 L 777 17" stroke="#00ff99" stroke-width="4.5" fill="none" opacity="0.9"/>
 
-  <!-- Главный текст: МАКСИМАЛЬНЫЙ РАЗМЕР -->
-  <text x="50%" y="102" fill="#00ff99" font-family="Impact, 'Arial Black', sans-serif" font-size="96" font-weight="900" letter-spacing="12" text-anchor="middle" filter="url(#glow)">
+  <text x="50%" y="68" fill="#00ff99" font-family="Impact, 'Arial Black', sans-serif" font-size="82" font-weight="900" letter-spacing="10" text-anchor="middle" filter="url(#glow)">
     MARPELSKIY
   </text>
 
-  <!-- Нижняя подчеркивающая линия -->
-  <line x1="220" y1="132" x2="680" y2="132" stroke="#00ff99" stroke-width="5" opacity="0.9" />
-  <rect x="432" y="127" width="36" height="10" fill="#00ff99" />
+  <line x1="250" y1="88" x2="550" y2="88" stroke="#00ff99" stroke-width="5" opacity="0.95" />
+  <rect x="385" y="83" width="30" height="10" fill="#00ff99" />
 </svg>
 
 <br>
@@ -46,10 +40,9 @@
 
 ---
 
-<!-- ЗАГОЛОВОК 1: TECHNICAL PROFILE -->
 <div align="center">
-  <svg width="700" height="85" viewBox="0 0 700 85" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="55" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="48" font-weight="900" letter-spacing="2" text-anchor="middle">
+  <svg width="100%" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%;">
+    <text x="50%" y="45" fill="#00ff99" font-family="'JetBrains Mono', monospace" font-size="46" font-weight="900" letter-spacing="2" text-anchor="middle">
       // TECHNICAL PROFILE
     </text>
   </svg>
@@ -97,10 +90,9 @@
 
 ---
 
-<!-- ЗАГОЛОВОК 2: PROJECTS -->
 <div align="center">
-  <svg width="500" height="85" viewBox="0 0 500 85" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="55" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="48" font-weight="900" letter-spacing="2" text-anchor="middle">
+  <svg width="100%" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%;">
+    <text x="50%" y="45" fill="#00ff99" font-family="'JetBrains Mono', monospace" font-size="46" font-weight="900" letter-spacing="2" text-anchor="middle">
       // PROJECTS
     </text>
   </svg>
@@ -135,10 +127,9 @@
 
 ---
 
-<!-- ЗАГОЛОВОК 3: OPERATIONS / CLOSED CASES -->
 <div align="center">
-  <svg width="900" height="85" viewBox="0 0 900 85" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="55" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="48" font-weight="900" letter-spacing="2" text-anchor="middle">
+  <svg width="100%" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%;">
+    <text x="50%" y="45" fill="#00ff99" font-family="'JetBrains Mono', monospace" font-size="44" font-weight="900" letter-spacing="1" text-anchor="middle">
       // OPERATIONS / CLOSED CASES
     </text>
   </svg>
@@ -146,7 +137,6 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 14px; justify-content: center; margin-top: 20px;">
 
-  <!-- CASE 1 -->
   <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
     <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
       <img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
@@ -159,7 +149,6 @@
     </p>
   </div>
 
-  <!-- CASE 2 -->
   <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
     <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
       <img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
@@ -172,7 +161,6 @@
     </p>
   </div>
 
-  <!-- CASE 3 -->
   <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
     <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
       <img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
@@ -185,7 +173,6 @@
     </p>
   </div>
 
-  <!-- CASE 4 -->
   <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
     <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
       <img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
@@ -198,7 +185,6 @@
     </p>
   </div>
 
-  <!-- CASE 5 -->
   <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
     <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
       <img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
@@ -211,7 +197,6 @@
     </p>
   </div>
 
-  <!-- CASE 6 -->
   <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
     <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
       <img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
@@ -224,7 +209,6 @@
     </p>
   </div>
 
-  <!-- CASE 7 -->
   <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
     <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
       <img src="https://api.iconify.design/ph:terminal-window-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
@@ -241,10 +225,9 @@
 
 ---
 
-<!-- ЗАГОЛОВОК 4: TEAM -->
 <div align="center">
-  <svg width="450" height="85" viewBox="0 0 450 85" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="55" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="48" font-weight="900" letter-spacing="2" text-anchor="middle">
+  <svg width="100%" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%;">
+    <text x="50%" y="45" fill="#00ff99" font-family="'JetBrains Mono', monospace" font-size="46" font-weight="900" letter-spacing="2" text-anchor="middle">
       // TEAM
     </text>
   </svg>
@@ -262,10 +245,9 @@
 
 ---
 
-<!-- ЗАГОЛОВОК 5: CONTACT -->
 <div align="center">
-  <svg width="500" height="85" viewBox="0 0 500 85" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="55" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="48" font-weight="900" letter-spacing="2" text-anchor="middle">
+  <svg width="100%" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%;">
+    <text x="50%" y="45" fill="#00ff99" font-family="'JetBrains Mono', monospace" font-size="46" font-weight="900" letter-spacing="2" text-anchor="middle">
       // CONTACT
     </text>
   </svg>
