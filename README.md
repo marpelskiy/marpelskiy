@@ -28,7 +28,22 @@ member of un-sec
 
 <div align="center">
 
-<img src="https://i.gifer.com/7VE.gif" width="100%"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,cpp,js,arduino,github,vscode,git,docker&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=gnu-bash&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Tor-000000?style=for-the-badge&logo=torproject&logoColor=00ff99"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OSINT-001100?style=for-the-badge&logo=google&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Reverse_Engineering-001100?style=for-the-badge&logo=gnometerminal&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Exploit_Development-001100?style=for-the-badge&logo=protonmail&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Network_Security-001100?style=for-the-badge&logo=cloudflare&logoColor=00ff99"/>
 
 </div>
 
@@ -64,14 +79,6 @@ Obfuscation
 Pentest
 Reverse Engineering
 ```
-
----
-
-<div align="center">
-
-<img src="https://i.gifer.com/YCZH.gif" width="100%"/>
-
-</div>
 
 ---
 
@@ -125,14 +132,6 @@ gather()
 fingerprint()
 dork()
 ```
-
----
-
-<div align="center">
-
-<img src="https://i.gifer.com/75ez.gif" width="100%"/>
-
-</div>
 
 ---
 
