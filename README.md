@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Systems+%26+Security+Engineer;OSINT+%7C+Pentest+%7C+Reverse+Engineering;C%2FC%2B%2B+%7C+Python+%7C+Assembly;Linux+Power+User;member+of+un-sec" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Systems+%26+Security+Engineer;OSINT+%7C+Pentest+%7C+Reverse+Engineering;Network+Security+Specialist;member+of+un-sec" />
 
 <br><br>
 
@@ -26,24 +26,18 @@ Systems & Security Engineer
 member of un-sec
 ```
 
+---
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,cpp,js,arduino,github,vscode,git,docker&theme=dark" />
+## Pentest Toolkit
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=gnu-bash&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=linux&logoColor=00ff99"/>
 <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff99"/>
 <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/Tor-000000?style=for-the-badge&logo=torproject&logoColor=00ff99"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/OSINT-001100?style=for-the-badge&logo=google&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/Reverse_Engineering-001100?style=for-the-badge&logo=gnometerminal&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/Exploit_Development-001100?style=for-the-badge&logo=protonmail&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/Network_Security-001100?style=for-the-badge&logo=cloudflare&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logo=sqlite&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff99"/>
 
 </div>
 
@@ -60,23 +54,14 @@ member of un-sec
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 ![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino)
 
-### Systems
-
-![Arch](https://img.shields.io/badge/Arch-111111?style=for-the-badge&logo=arch-linux)
-![Void](https://img.shields.io/badge/Void-111111?style=for-the-badge)
-![Gentoo](https://img.shields.io/badge/Gentoo-111111?style=for-the-badge&logo=gentoo)
-![Debian](https://img.shields.io/badge/Debian-111111?style=for-the-badge&logo=debian)
-![Fedora](https://img.shields.io/badge/Fedora-111111?style=for-the-badge&logo=fedora)
-![NixOS](https://img.shields.io/badge/NixOS-111111?style=for-the-badge&logo=nixos)
-
 ### Expertise
 
 ```txt
 Network Security
 OSINT
+Penetration Testing
+Web Exploitation
 Encryption
-Obfuscation
-Pentest
 Reverse Engineering
 ```
 
