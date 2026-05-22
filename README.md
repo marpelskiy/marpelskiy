@@ -128,7 +128,11 @@
 
 <div align="center">
 
-<h3><b><a href="https://un-sec.github.io">https://un-sec.github.io</a></b></h3>
+<h3><img src="https://api.iconify.design/ph:globe-hemisphere-west-bold.svg?color=%238b949e" width="22" height="22" valign="middle"/> Infrastructure Website</h3>
+
+<a href="https://un-sec.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/un--sec.github.io-00ff99?style=for-the-badge&logo=gitbook&logoColor=black" alt="Team Website"/>
+</a>
 
 </div>
 
@@ -138,8 +142,15 @@
 
 <div align="center">
 
-<h3><b>Telegram: <a href="https://t.me/Localhost54">@Localhost54</a></b></h3>
-<h3><b>Email: <a href="mailto:marpelskiy98@cocaine.ninja">marpelskiy98@cocaine.ninja</a></b></h3>
+<h3>
+  <img src="https://api.iconify.design/ph:telegram-logo-bold.svg?color=%238b949e" width="22" height="22" valign="middle"/> 
+  <b>Telegram: <a href="https://t.me/Localhost54">@Localhost54</a></b>
+</h3>
+
+<h3>
+  <img src="https://api.iconify.design/ph:envelope-simple-bold.svg?color=%238b949e" width="22" height="22" valign="middle"/> 
+  <b>Email: <a href="mailto:marpelskiy98@cocaine.ninja">marpelskiy98@cocaine.ninja</a></b>
+</h3>
 
 </div>
 
