@@ -1,35 +1,55 @@
-<div align="center">
-    <div style="font-family: 'JetBrains Mono', monospace; font-size: 22px; font-weight: 900; color: #00ff99; letter-spacing: 8px; margin-bottom: 15px; opacity: 1;">
-        6D 61 72 70 65 6C
-    </div>
+<h1 align="center">marpelskiy</h1>
 
-    <svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-            <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-                <feGaussianBlur stdDeviation="8" result="blur" />
-                <feMerge>
-                    <feMergeNode in="blur" />
-                    <feMergeNode in="SourceGraphic" />
-                </feMerge>
-            </filter>
-        </defs>
+<p align="center">
+  <img src="https://img.shields.io/badge/Systems_&_Security-Engineer-000000?style=for-the-badge&logo=linux&logoColor=white">
+  <br>
+  <a href="https://un-sec.github.io">🔗 un-sec team</a>
+</p>
 
-        <path d="M 20 40 L 70 40 L 82 52 M 20 40 L 20 120 L 32 132" stroke="#00ff99" stroke-width="4" fill="none" opacity="0.85"/>
-        <path d="M 880 120 L 830 120 L 818 108 M 880 120 L 880 40 L 868 28" stroke="#00ff99" stroke-width="4" fill="none" opacity="0.85"/>
-        
-        <text x="50%" y="102" fill="#00ff99" font-family="Impact, 'Arial Black', sans-serif" font-size="96" font-weight="900" letter-spacing="12" text-anchor="middle" filter="url(#glow)">
-            MARPELSKIY
-        </text>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=OSINT+Specialist;Reverse+Engineering;Network+Security;Pentester;Binary+Obfuscation">
+</p>
 
-        <line x1="220" y1="132" x2="680" y2="132" stroke="#00ff99" stroke-width="5" opacity="0.9" />
-        <rect x="432" y="127" width="36" height="10" fill="#00ff99" />
-    </svg>
+---
 
-    <br>
-    <a href="https://un-sec.github.io" target="_blank">
-        <img src="https://img.shields.io/static/v1?label=un-sec&message=team&color=00ff99&labelColor=black&style=for-the-badge" alt="un-sec team"/>
-    </a>
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Assembly-6E4A7E?style=flat&logo=assemblyscript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white">
+</p>
 
-    <br><br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=SYSTEMS+%26+SECURITY+ENGINEER;PENTEST+%7C+OSINT+%7C+REVERSE+ENGINEERING;NETWORK+EXPLOITATION+SPECIALIST;UN-SEC+MEMBER" />
-</div>
+---
+
+### 🚀 Projects
+* [cite_start]**Answer Now** — AI-powered automated test solver[cite: 1].
+* [cite_start]**pySniff** — Smart WiFi sniffer with TG integration[cite: 2].
+* [cite_start]**Crypton** — AES-256-GCM + ChaCha20-Poly1305 toolkit[cite: 2].
+* [cite_start]**C0ck Obfuscator** — Custom file obfuscation engine[cite: 3].
+* [cite_start]**webSosint** — Domain intelligence, Google dork generator & OSINT tool[cite: 3].
+
+---
+
+### 🛡 Closed Cases
+| Target | Results | Status |
+| :--- | :--- | :--- |
+| **mineblaze.net** | 10 vulnerabilities (1h) | CLOSED |
+| **tgpremka** | 13 vulnerabilities (34m) | CLOSED |
+| **musteryworld.net** | 10 vulnerabilities (40m) | CLOSED |
+| **dexland.org** | 10 vulnerabilities (1h) | CLOSED |
+| **lainlife.ru** | 19 vulnerabilities (Team) | CLOSED |
+| **OpenVk** | 10 vulns (8 CRITICAL) | CLOSED |
+
+---
+
+### 🤝 Collaborations
+* **s010vloon:** Contributed 3 custom tools for knowledge base integration.
+
+---
+
+### 📬 Contact
+* **Telegram:** [@Localhost54](https://t.me/Localhost54)
+* **Email:** [marpelskiy98@cocaine.ninja](mailto:marpelskiy98@cocaine.ninja)
