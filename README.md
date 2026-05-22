@@ -138,18 +138,15 @@
 
 <br><br>
 
-<h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>openvk.org</code> ]</h3>
-
-<b>→ 9 vulnerabilities discovered in 4 hours</b><br>
-<b>→ 8 classified as <span style="color:#ff3b3b;">CRITICAL</span></b><br>
 <b>→ coordinated <span style="color:#00ff99;">team effort</span> with <code>s010vloon</code></b><br>
 
-<b>→ research toolkit expanded:</b><br>
+<b>→ knowledge base updated:</b><br>
 &nbsp;&nbsp;• <code>webSosint</code><br>
 &nbsp;&nbsp;• <code>pySniff</code><br>
 &nbsp;&nbsp;• <code>C0ck Obfuscator</code><br>
+&nbsp;&nbsp;<span style="color:#8b949e;">(tools added to internal reference database)</span><br>
 
-<b>status: <span style="color:#00ff99;">CLOSED</span></b>
+
 
 <br><br>
 
