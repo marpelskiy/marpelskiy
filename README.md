@@ -71,7 +71,7 @@
 
 <br><br>
 
-<h3><img src="https://api.iconify.design/ph:lock-key-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> <code>Cryptom</code></h3>
+<h3><img src="https://api.iconify.design/ph:lock-key-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> <code>Crypton</code></h3>
 <b>Cryptographic toolkit implementing AES-256-GCM and ChaCha20-Poly1305 secure encryption layers.</b>
 
 <br><br>
