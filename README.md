@@ -12,18 +12,27 @@
 
 <br><br>
 
-<!-- FLOATING TOOL AURA (under nickname animation block) -->
-<img src="https://media.tenor.com/8K3w4Q5Yw2oAAAAC/hacker-code.gif" width="45%"/>
-<img src="https://media.tenor.com/1Qb9Z9g9b6kAAAAC/matrix-hacker.gif" width="45%"/>
+<!-- FLOATING TOOL BACKGROUND LAYER (SIMULATED BLUR AURA) -->
+<div align="center">
 
-<br>
+<img src="https://media.tenor.com/8K3w4Q5Yw2oAAAAC/hacker-code.gif" width="48%" style="filter: blur(1px); opacity:0.7;"/>
+<img src="https://media.tenor.com/1Qb9Z9g9b6kAAAAC/matrix-hacker.gif" width="48%" style="filter: blur(1px); opacity:0.7;"/>
 
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=linux&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logo=sqlite&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00ff99"/>
-<img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff99"/>
+<br><br>
+
+</div>
+
+<!-- BIG TOOL ICON AURA -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=linux&logoColor=00ff99" width="220"/>
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff99" width="240"/>
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff99" width="260"/>
+<img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logo=sqlite&logoColor=00ff99" width="230"/>
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00ff99" width="260"/>
+<img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff99" width="250"/>
+
+</div>
 
 </div>
 
@@ -45,11 +54,11 @@ Network Security | OSINT | Encryption | Obfuscation | Pentest | Reverse Engineer
 ```txt
 Projects:
 
-Answer Now → AI-powered automated test solver
-pySniff → WiFi sniffer with Telegram integration
-Crypton → AES-256-GCM + ChaCha20 toolkit
+Answer Now → AI-powered solver
+pySniff → WiFi sniffer + Telegram
+Crypton → encryption toolkit
 C0ck Obfuscator → file obfuscation engine
-webSosint → OSINT + dork + domain intelligence
+webSosint → OSINT + dork system
 ```
 
 ---
@@ -57,11 +66,11 @@ webSosint → OSINT + dork + domain intelligence
 ```txt
 Closed Cases:
 
-[ mineblaze.net ] → 10 vulns → CLOSED
-[ tgpremka ] → 13 vulns → CLOSED
-[ musteryworld.net ] → 10 vulns → CLOSED
-[ dexland.org ] → 10 vulns → CLOSED
-[ lainlife.ru ] → 19 vulns → CLOSED
+[ mineblaze.net ] → 10 → CLOSED
+[ tgpremka ] → 13 → CLOSED
+[ musteryworld.net ] → 10 → CLOSED
+[ dexland.org ] → 10 → CLOSED
+[ lainlife.ru ] → 19 → CLOSED
 ```
 
 ---
