@@ -37,8 +37,8 @@ Reverse Engineering & Binary Analysis
 
 <div align="center">
 
-<!-- EXECUTION / RUNTIME MONITOR FEEL -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFyOGV5aDRvcnc4bmV2NTl2MTE2ZG9jaTV3cTVhYXdsa2lrNWh2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OaC8uQkJYwu3AMOzSl/giphy.gif" width="85%"/>
+<!-- NEW EXECUTION MONITOR GIF -->
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJncmJ4MHBnaW5scWJ3ZXhndnBsM2F3c2xrb2E0MDBtY3RpNTM4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7fuXkuvgjXp9v7M6y9/giphy.gif" width="75%"/>
 
 </div>
 
