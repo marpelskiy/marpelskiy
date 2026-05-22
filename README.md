@@ -32,14 +32,24 @@ webSosint — Domain intelligence & OSINT automation.
 
 ---
 
-### Security Impact
+### Security Impact (Closed Cases)
 
-OpenVk: 10 vulnerabilities (8 CRITICAL) — CLOSED  
-lainlife.ru: 19 vulnerabilities (Team) — CLOSED  
-mineblaze.net: 10 vulnerabilities in 1h — CLOSED  
-tgpremka: 13 vulnerabilities in 34m — CLOSED  
-musteryworld.net: 10 vulnerabilities in 40m — CLOSED  
-dexland.org: 10 vulnerabilities in 1h — CLOSED  
+**OpenVk** 10 vulnerabilities (8 CRITICAL) | Status: CLOSED  
+***
+
+**lainlife.ru** 19 vulnerabilities (Team Work) | Status: CLOSED  
+***
+
+**mineblaze.net** 10 vulnerabilities in 60 minutes | Status: CLOSED  
+***
+
+**tgpremka** 13 vulnerabilities in 34 minutes | Status: CLOSED  
+***
+
+**musteryworld.net** 10 vulnerabilities in 40 minutes | Status: CLOSED  
+***
+
+**dexland.org** 10 vulnerabilities in 60 minutes | Status: CLOSED  
 
 ---
 
