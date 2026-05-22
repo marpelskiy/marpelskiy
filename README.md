@@ -90,8 +90,8 @@
 
 <h2 align="center">OPERATIONS / CLOSED CASES</h2>
 
-<div align="center">
 
+<div align="center">
 <h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>mineblaze.net</code> ]</h3>
 <b>→ 10 vulnerabilities discovered in 1 hour</b><br>
 <b>status: <span style="color:#00ff99;">CLOSED</span></b>
