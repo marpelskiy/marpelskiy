@@ -45,11 +45,13 @@
 <br><br>
 
 <h3>EXPERTISE</h3>
-<b>Network Security Engineering</b><br>
-<b>OSINT & Reconnaissance Systems</b><br>
-<b>Cryptography & Secure Systems Design</b><br>
-<b>Web Application Penetration Testing</b><br>
-<b>Reverse Engineering & Binary Analysis</b>
+<b>
+  <img src="https://api.iconify.design/ph:shield-checkered-bold.svg?color=%2300ff99" width="22" height="22" valign="middle"/> Network Security Engineering &nbsp;|&nbsp;
+  <img src="https://api.iconify.design/ph:eye-bold.svg?color=%2300ff99" width="22" height="22" valign="middle"/> OSINT & Reconnaissance <br><br>
+  <img src="https://api.iconify.design/ph:key-bold.svg?color=%2300ff99" width="22" height="22" valign="middle"/> Cryptography & Secure Systems &nbsp;|&nbsp;
+  <img src="https://api.iconify.design/ph:terminal-window-bold.svg?color=%2300ff99" width="22" height="22" valign="middle"/> Web Penetration Testing <br><br>
+  <img src="https://api.iconify.design/ph:code-block-bold.svg?color=%2300ff99" width="22" height="22" valign="middle"/> Reverse Engineering & Binary Analysis
+</b>
 
 </div>
 
@@ -59,13 +61,28 @@
 
 <div align="center">
 
-| Название | Описание | Стек / Спецификация |
-| :--- | :--- | :--- |
-| `Answer Now` | ИИ-автоматизация решения тестов и адаптивная генерация ответов | `Python` `Extension` |
-| `pySniff` | Продвинутый WiFi сниффер с Telegram-оповещениями и анализом трафика | `Python` `Network` |
-| `Cryptom` | Криптографический тулkit: защищенные слои AES-256-GCM и ChaCha20-Poly1305 | `C++` `Crypto` |
-| `C0ck Obfuscator` | Движок обфускации для бинарной трансформации и обхода сигнатурного анализа | `C` `Reverse` |
-| `webSosint` | Фреймворк для OSINT и разведки доменов с автоматизацией Google dorking | `Python` `OSINT` |
+<h3><img src="https://api.iconify.design/ph:robot-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> <code>Answer Now</code></h3>
+<b>AI-powered automated test solver with automation logic and adaptive response generation.</b>
+
+<br><br>
+
+<h3><img src="https://api.iconify.design/ph:wifi-high-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> <code>pySniff</code></h3>
+<b>Advanced WiFi packet sniffer with Telegram-based alerting and traffic analysis.</b>
+
+<br><br>
+
+<h3><img src="https://api.iconify.design/ph:lock-key-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> <code>Cryptom</code></h3>
+<b>Cryptographic toolkit implementing AES-256-GCM and ChaCha20-Poly1305 secure encryption layers.</b>
+
+<br><br>
+
+<h3><img src="https://api.iconify.design/ph:file-code-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> <code>C0ck Obfuscator</code></h3>
+<b>File obfuscation engine designed for binary transformation and signature evasion research.</b>
+
+<br><br>
+
+<h3><img src="https://api.iconify.design/ph:globe-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> <code>webSosint</code></h3>
+<b>OSINT and domain intelligence framework with integrated Google dorking automation system.</b>
 
 </div>
 
@@ -75,13 +92,33 @@
 
 <div align="center">
 
-| Цель (Target) | Найдено уязвимостей | Затраченное время | Статус |
-| :--- | :---: | :---: | :---: |
-| <span style="color:#8b949e;">mineblaze.net</span> | **10** | 1 ч. | <span style="color:#00ff99;">[CLOSED]</span> |
-| <span style="color:#8b949e;">tgpremka</span> | **13** | 34 мин. | <span style="color:#00ff99;">[CLOSED]</span> |
-| <span style="color:#8b949e;">musteryworld.net</span> | **10** | 40 мин. | <span style="color:#00ff99;">[CLOSED]</span> |
-| <span style="color:#8b949e;">dexland.org</span> | **10** | 1 ч. | <span style="color:#00ff99;">[CLOSED]</span> |
-| <span style="color:#8b949e;">lainlife.ru</span> | **19** | ~2 ч. | <span style="color:#00ff99;">[CLOSED]</span> |
+<h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>mineblaze.net</code> ]</h3>
+<b>→ 10 vulnerabilities discovered in 1 hour</b><br>
+<b>status: <span style="color:#00ff99;">CLOSED</span></b>
+
+<br><br>
+
+<h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>tgpremka</code> ]</h3>
+<b>→ 13 vulnerabilities discovered in 34 minutes</b><br>
+<b>status: <span style="color:#00ff99;">CLOSED</span></b>
+
+<br><br>
+
+<h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>musteryworld.net</code> ]</h3>
+<b>→ 10 vulnerabilities discovered in 40 minutes</b><br>
+<b>status: <span style="color:#00ff99;">CLOSED</span></b>
+
+<br><br>
+
+<h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>dexland.org</code> ]</h3>
+<b>→ 10 vulnerabilities discovered in 1 hour</b><br>
+<b>status: <span style="color:#00ff99;">CLOSED</span></b>
+
+<br><br>
+
+<h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>lainlife.ru</code> ]</h3>
+<b>→ 19 vulnerabilities discovered in ~2 hours</b><br>
+<b>status: <span style="color:#00ff99;">CLOSED</span></b>
 
 </div>
 
