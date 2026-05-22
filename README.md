@@ -18,13 +18,13 @@
 
 <div align="center">
 
-<h3>LANGUAGES</h3>
+<h3>LANGUAGES & HARDWARE</h3>
 <b>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="22" height="22" valign="middle"/> C++ &nbsp;|&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="22" height="22" valign="middle"/> C &nbsp;|&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22" height="22" valign="middle"/> Python &nbsp;|&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="22" height="22" valign="middle"/> JavaScript &nbsp;|&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="22" height="22" valign="middle"/> Arduino
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="22" height="22" valign="middle"/> Hardware Programming (MCU)
 </b>
 
 <br><br>
@@ -33,9 +33,13 @@
 <b>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="22" height="22" valign="middle"/> Arch Linux &nbsp;|&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gentoo/gentoo-original.svg" width="22" height="22" valign="middle"/> Gentoo &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/voidlinux/voidlinux-original.svg" width="22" height="22" valign="middle"/> Void Linux &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" width="22" height="22" valign="middle"/> NixOS &nbsp;|&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="22" height="22" valign="middle"/> Debian &nbsp;|&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="22" height="22" valign="middle"/> Fedora &nbsp;|&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" width="22" height="22" valign="middle"/> NixOS
+  <br><br>
+  <img src="https://img.shields.io/badge/-Whonix-3A81B5?style=flat&logo=linux&logoColor=white" height="18" valign="middle"/> Whonix &nbsp;|&nbsp;
+  <img src="https://img.shields.io/badge/-Tails-56347C?style=flat&logo=linux&logoColor=white" height="18" valign="middle"/> Tails
 </b>
 
 <br><br>
