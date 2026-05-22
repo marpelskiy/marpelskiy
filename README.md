@@ -13,19 +13,23 @@
 
 ### <img src="https://img.icons8.com/ios/24/00FF00/code.png"/> Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript&perline=6">
-<img src="https://img.shields.io/badge/Assembly-6E4A7E?style=for-the-badge&logo=assemblyscript&logoColor=white">
-<img src="https://img.shields.io/badge/Microcontrollers-00979D?style=for-the-badge&logo=microchip&logoColor=white">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,asm,arduino" /><br>
+  <b>C++ | C | Python | JavaScript | Assembly | Microcontrollers</b>
+</div>
 
 ---
 
 ### <img src="https://img.icons8.com/ios/24/00FF00/linux.png"/> OS & Systems
 
-<img src="https://skillicons.dev/icons?i=arch,gentoo,debian,fedora,nixos&perline=6">
-<img src="https://img.shields.io/badge/Void-000000?style=for-the-badge&logo=voidlinux&logoColor=white">
-<img src="https://img.shields.io/badge/CachyOS-000000?style=for-the-badge&logo=archlinux&logoColor=00FF00">
-<img src="https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white">
-<img src="https://img.shields.io/badge/Whonix-000000?style=for-the-badge&logo=whonix&logoColor=white">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=arch,gentoo,debian,fedora,nixos" /><br>
+  <b>Arch | Gentoo | Debian | Fedora | NixOS</b><br><br>
+  <img src="https://img.shields.io/badge/Void-000000?style=for-the-badge&logo=voidlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CachyOS-000000?style=for-the-badge&logo=archlinux&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Whonix-000000?style=for-the-badge&logo=whonix&logoColor=white"/>
+</div>
 
 ---
 
@@ -43,15 +47,13 @@
 
 ### <img src="https://img.icons8.com/ios/24/00FF00/shield.png"/> Closed Cases
 
-<div align="center">
-  <table border="0">
-    <tr><td><b>OpenVk</b></td><td>10 vulns (8 CRIT) / 3h</td><td>CLOSED</td></tr>
-    <tr><td><b>mineblaze.net</b></td><td>10 vulns / 1h</td><td>CLOSED</td></tr>
-    <tr><td><b>tgpremka</b></td><td>13 vulns / 34m</td><td>CLOSED</td></tr>
-    <tr><td><b>musteryworld.net</b></td><td>10 vulns / 40m</td><td>CLOSED</td></tr>
-    <tr><td><b>dexland.org</b></td><td>10 vulns / 1h</td><td>CLOSED</td></tr>
-    <tr><td><b>lainlife.ru</b></td><td>19 vulns / ~2h (team)</td><td>CLOSED</td></tr>
-  </table>
+<div align="left" style="margin-left: 20%;">
+  • <b>OpenVk</b> — 10 vulns (8 CRIT) / 3h — CLOSED<br>
+  • <b>mineblaze.net</b> — 10 vulns / 1h — CLOSED<br>
+  • <b>tgpremka</b> — 13 vulns / 34m — CLOSED<br>
+  • <b>musteryworld.net</b> — 10 vulns / 40m — CLOSED<br>
+  • <b>dexland.org</b> — 10 vulns / 1h — CLOSED<br>
+  • <b>lainlife.ru</b> — 19 vulns / ~2h (team) — CLOSED
 </div>
 
 ---
