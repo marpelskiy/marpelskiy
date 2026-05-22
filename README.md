@@ -10,11 +10,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=SYSTEMS+%26+SECURITY+ENGINEER;PENTEST+%7C+OSINT+%7C+REVERSE+ENGINEERING;NETWORK+EXPLOITATION+SPECIALIST;UN-SEC+MEMBER" />
 
-<br><br>
-
-<!-- MAIN MONITOR / CYBER SCREEN -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFyOGV5aDRvcnc4bmV2NTl2MTE2ZG9jaTV3cTVhYXdsa2lrNWh2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OaC8uQkJYwu3AMOzSl/giphy.gif" width="85%"/>
-
 </div>
 
 ---
@@ -39,6 +34,13 @@ Reverse Engineering & Binary Analysis
 ---
 
 # <h1 align="center">PROJECTS</h1>
+
+<div align="center">
+
+<!-- EXECUTION / RUNTIME MONITOR FEEL -->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFyOGV5aDRvcnc4bmV2NTl2MTE2ZG9jaTV3cTVhYXdsa2lrNWh2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OaC8uQkJYwu3AMOzSl/giphy.gif" width="85%"/>
+
+</div>
 
 ```txt
 Answer Now
@@ -99,5 +101,3 @@ https://un-sec.github.io
 Telegram: @Localhost54
 Email: marpelskiy98@cocaine.ninja
 ```
-
----
