@@ -8,35 +8,18 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Systems+%26+Security+Engineer;OSINT+%7C+Pentest+%7C+Reverse+Engineering;Network+Security+Operator;un-sec+member" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=SYSTEMS+%26+SECURITY+ENGINEER;PENTEST+%7C+OSINT+%7C+REVERSE+ENGINEERING;NETWORK+EXPLOITATION+SPECIALIST;UN-SEC+MEMBER" />
 
 <br><br>
 
-<!-- FLOATING TOOL BACKGROUND LAYER (SIMULATED BLUR AURA) -->
-<div align="center">
-
-<img src="https://media.tenor.com/8K3w4Q5Yw2oAAAAC/hacker-code.gif" width="48%" style="filter: blur(1px); opacity:0.7;"/>
-<img src="https://media.tenor.com/1Qb9Z9g9b6kAAAAC/matrix-hacker.gif" width="48%" style="filter: blur(1px); opacity:0.7;"/>
-
-<br><br>
-
-</div>
-
-<!-- BIG TOOL ICON AURA -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=linux&logoColor=00ff99" width="220"/>
-<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff99" width="240"/>
-<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff99" width="260"/>
-<img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logo=sqlite&logoColor=00ff99" width="230"/>
-<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00ff99" width="260"/>
-<img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff99" width="250"/>
-
-</div>
+<!-- MAIN CYBER VISUAL -->
+<img src="https://media.tenor.com/0G7gk7Q2d8kAAAAC/cyber-security-hacker.gif" width="85%"/>
 
 </div>
 
 ---
+
+# <h1 align="center">TECHNICAL PROFILE</h1>
 
 ```txt
 Languages:
@@ -51,40 +34,49 @@ Network Security | OSINT | Encryption | Obfuscation | Pentest | Reverse Engineer
 
 ---
 
-```txt
-Projects:
+# <h1 align="center">PROJECTS</h1>
 
-Answer Now → AI-powered solver
-pySniff → WiFi sniffer + Telegram
-Crypton → encryption toolkit
+```txt
+Answer Now → AI-powered automated solver
+pySniff → WiFi sniffer + Telegram integration
+Crypton → AES-256-GCM + ChaCha20 toolkit
 C0ck Obfuscator → file obfuscation engine
-webSosint → OSINT + dork system
+webSosint → OSINT + domain intelligence + dorking
 ```
 
 ---
 
-```txt
-Closed Cases:
+# <h1 align="center">OPERATIONS / CASES CLOSED</h1>
 
-[ mineblaze.net ] → 10 → CLOSED
-[ tgpremka ] → 13 → CLOSED
-[ musteryworld.net ] → 10 → CLOSED
-[ dexland.org ] → 10 → CLOSED
-[ lainlife.ru ] → 19 → CLOSED
+```txt
+[ mineblaze.net ] → 10 vulnerabilities → CLOSED
+[ tgpremka ] → 13 vulnerabilities → CLOSED
+[ musteryworld.net ] → 10 vulnerabilities → CLOSED
+[ dexland.org ] → 10 vulnerabilities → CLOSED
+[ lainlife.ru ] → 19 vulnerabilities → CLOSED
 ```
 
 ---
 
+# <h1 align="center">TEAM</h1>
+
 ```txt
-Team:
 https://un-sec.github.io
 ```
 
 ---
 
-```txt
-Contact:
+# <h1 align="center">CONTACT</h1>
 
+```txt
 Telegram: @Localhost54
 Email: marpelskiy98@cocaine.ninja
 ```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=140&section=footer"/>
+
+</div>
