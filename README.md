@@ -90,62 +90,65 @@
 
 <h2 align="center">OPERATIONS / CLOSED CASES</h2>
 
-<!-- Таблица сама создаст горизонтальный скролл на GitHub, если контент не влезает -->
-<table border="0" cellpadding="0" cellspacing="0">
+<div style="overflow-x: auto; white-space: nowrap; padding-bottom: 12px;">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; display: table;">
   <tr>
 
     <!-- CASE 1 -->
-    <td>
-      <div style="width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117; margin-right: 15px;">
+    <td valign="top">
+      <div style="width: 280px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117; margin-right: 14px; white-space: normal;">
         <h3 style="margin-top: 0;"><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>mineblaze.net</code> ]</h3>
         <font size="2">
-          <b>→ 10 vulnerabilities discovered in 1 hour</b><br>
+          <b>→ 10 vulnerabilities discovered</b><br>
           <b>status: <span style="color:#00ff99;">CLOSED</span></b><br>
           <b>→ 8 classified as <span style="color:#ff3b3b;">CRITICAL</span></b><br>
-          <b>→ <span style="color:#00ff99;">team work (with Agent231-src)</span></b>
+          <b>→ <span style="color:#00ff99;">team work (Agent231-src)</span></b>
         </font>
       </div>
     </td>
 
     <!-- CASE 2 -->
-    <td>
-      <div style="width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117; margin-right: 15px;">
+    <td valign="top">
+      <div style="width: 280px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117; margin-right: 14px; white-space: normal;">
         <h3 style="margin-top: 0;"><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>tgpremka</code> ]</h3>
         <font size="2">
-          <b>→ 13 vulnerabilities discovered in 34 minutes</b><br>
+          <b>→ 13 vulnerabilities discovered</b><br>
+          <b>duration: 34 minutes</b><br>
           <b>status: <span style="color:#00ff99;">CLOSED</span></b>
         </font>
       </div>
     </td>
 
     <!-- CASE 3 -->
-    <td>
-      <div style="width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117; margin-right: 15px;">
+    <td valign="top">
+      <div style="width: 280px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117; margin-right: 14px; white-space: normal;">
         <h3 style="margin-top: 0;"><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>musteryworld.net</code> ]</h3>
         <font size="2">
-          <b>→ 10 vulnerabilities discovered in 40 minutes</b><br>
+          <b>→ 10 vulnerabilities discovered</b><br>
+          <b>duration: 40 minutes</b><br>
           <b>status: <span style="color:#00ff99;">CLOSED</span></b>
         </font>
       </div>
     </td>
 
     <!-- CASE 4 -->
-    <td>
-      <div style="width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117; margin-right: 15px;">
+    <td valign="top">
+      <div style="width: 280px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117; margin-right: 14px; white-space: normal;">
         <h3 style="margin-top: 0;"><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>dexland.org</code> ]</h3>
         <font size="2">
-          <b>→ 10 vulnerabilities discovered in 1 hour</b><br>
+          <b>→ 10 vulnerabilities discovered</b><br>
+          <b>duration: 1 hour</b><br>
           <b>status: <span style="color:#00ff99;">CLOSED</span></b>
         </font>
       </div>
     </td>
 
     <!-- CASE 5 -->
-    <td>
-      <div style="width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117; margin-right: 15px;">
+    <td valign="top">
+      <div style="width: 280px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117; margin-right: 14px; white-space: normal;">
         <h3 style="margin-top: 0;"><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>lainlife.ru</code> ]</h3>
         <font size="2">
-          <b>→ 19 vulnerabilities discovered in ~2 hours</b><br>
+          <b>→ 19 vulnerabilities discovered</b><br>
           <b>status: <span style="color:#00ff99;">CLOSED</span></b><br>
           <b>→ 7 classified as <span style="color:#ff3b3b;">CRITICAL</span></b><br>
           <b>→ <span style="color:#00ff99;">team work (un-sec)</span></b>
@@ -154,11 +157,11 @@
     </td>
 
     <!-- CASE 6 -->
-    <td>
-      <div style="width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117; margin-right: 15px;">
+    <td valign="top">
+      <div style="width: 280px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117; margin-right: 14px; white-space: normal;">
         <h3 style="margin-top: 0;"><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>openvk.org</code> ]</h3>
         <font size="2">
-          <b>→ 9 vulnerabilities discovered in 4 hours</b><br>
+          <b>→ 9 vulnerabilities discovered</b><br>
           <b>status: <span style="color:#00ff99;">CLOSED</span></b><br>
           <b>→ 8 classified as <span style="color:#ff3b3b;">CRITICAL</span></b><br>
           <b>→ <span style="color:#00ff99;">team work (un-sec)</span></b>
@@ -167,22 +170,23 @@
     </td>
 
     <!-- CASE 7 -->
-    <td>
-      <div style="width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117;">
+    <td valign="top">
+      <div style="width: 280px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; background: #0d1117; white-space: normal;">
         <h3 style="margin-top: 0;"><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>s010vloon</code> ]</h3>
         <font size="2">
           <b>→ coordinated <span style="color:#00ff99;">team effort</span></b><br>
           <b>→ knowledge base updated:</b><br>
           &nbsp;&nbsp;• <code>webSosint</code><br>
           &nbsp;&nbsp;• <code>pySniff</code><br>
-          &nbsp;&nbsp;• <code>C0ck Obfuscator</code><br>
-          <span style="color:#8b949e;">(tools added to internal database)</span>
+          &nbsp;&nbsp;• <code>C0ck Obfuscator</code>
         </font>
       </div>
     </td>
 
   </tr>
 </table>
+</div>
+
 ---
 
 <h2 align="center">TEAM</h2>
