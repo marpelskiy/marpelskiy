@@ -59,28 +59,13 @@
 
 <div align="center">
 
-<h3><code>Answer Now</code></h3>
-<b>AI-powered automated test solver with automation logic and adaptive response generation.</b>
-
-<br><br>
-
-<h3><code>pySniff</code></h3>
-<b>Advanced WiFi packet sniffer with Telegram-based alerting and traffic analysis.</b>
-
-<br><br>
-
-<h3><code>Cryptom</code></h3>
-<b>Cryptographic toolkit implementing AES-256-GCM and ChaCha20-Poly1305 secure encryption layers.</b>
-
-<br><br>
-
-<h3><code>C0ck Obfuscator</code></h3>
-<b>File obfuscation engine designed for binary transformation and signature evasion research.</b>
-
-<br><br>
-
-<h3><code>webSosint</code></h3>
-<b>OSINT and domain intelligence framework with integrated Google dorking automation system.</b>
+| Название | Описание | Стек / Спецификация |
+| :--- | :--- | :--- |
+| `Answer Now` | ИИ-автоматизация решения тестов и адаптивная генерация ответов | `Python` `Extension` |
+| `pySniff` | Продвинутый WiFi сниффер с Telegram-оповещениями и анализом трафика | `Python` `Network` |
+| `Cryptom` | Криптографический тулkit: защищенные слои AES-256-GCM и ChaCha20-Poly1305 | `C++` `Crypto` |
+| `C0ck Obfuscator` | Движок обфускации для бинарной трансформации и обхода сигнатурного анализа | `C` `Reverse` |
+| `webSosint` | Фреймворк для OSINT и разведки доменов с автоматизацией Google dorking | `Python` `OSINT` |
 
 </div>
 
@@ -90,33 +75,13 @@
 
 <div align="center">
 
-<h3>[ <code>mineblaze.net</code> ]</h3>
-<b>→ 10 vulnerabilities discovered in 1 hour</b><br>
-<b>status: CLOSED</b>
-
-<br><br>
-
-<h3>[ <code>tgpremka</code> ]</h3>
-<b>→ 13 vulnerabilities discovered in 34 minutes</b><br>
-<b>status: CLOSED</b>
-
-<br><br>
-
-<h3>[ <code>musteryworld.net</code> ]</h3>
-<b>→ 10 vulnerabilities discovered in 40 minutes</b><br>
-<b>status: CLOSED</b>
-
-<br><br>
-
-<h3>[ <code>dexland.org</code> ]</h3>
-<b>→ 10 vulnerabilities discovered in 1 hour</b><br>
-<b>status: CLOSED</b>
-
-<br><br>
-
-<h3>[ <code>lainlife.ru</code> ]</h3>
-<b>→ 19 vulnerabilities discovered in ~2 hours</b><br>
-<b>status: CLOSED</b>
+| Цель (Target) | Найдено уязвимостей | Затраченное время | Статус |
+| :--- | :---: | :---: | :---: |
+| <span style="color:#8b949e;">mineblaze.net</span> | **10** | 1 ч. | <span style="color:#00ff99;">[CLOSED]</span> |
+| <span style="color:#8b949e;">tgpremka</span> | **13** | 34 мин. | <span style="color:#00ff99;">[CLOSED]</span> |
+| <span style="color:#8b949e;">musteryworld.net</span> | **10** | 40 мин. | <span style="color:#00ff99;">[CLOSED]</span> |
+| <span style="color:#8b949e;">dexland.org</span> | **10** | 1 ч. | <span style="color:#00ff99;">[CLOSED]</span> |
+| <span style="color:#8b949e;">lainlife.ru</span> | **19** | ~2 ч. | <span style="color:#00ff99;">[CLOSED]</span> |
 
 </div>
 
