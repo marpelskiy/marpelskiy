@@ -1,6 +1,3 @@
-
-
-```markdown
 <div align="center">
 
 # marpelskiy
@@ -60,40 +57,94 @@
 
 <h2 align="center">PROJECTS</h2>
 
-```text
-[01] Answer Now        :: AI-powered automated test solver / adaptive response generation
-[02] pySniff           :: Advanced WiFi packet sniffer / Telegram-based alerting
-[03] Cryptom           :: Cryptographic toolkit / AES-256-GCM & ChaCha20-Poly1305 layers
-[04] C0ck Obfuscator   :: Binary transformation engine / signature evasion research
-[05] webSosint         :: OSINT & domain intelligence / Google dorking automation
+<div align="center">
 
-```
+<h3>Answer Now</h3>
+<b>AI-powered automated test solver with automation logic and adaptive response generation.</b>
+
+<br><br>
+
+<h3>pySniff</h3>
+<b>Advanced WiFi packet sniffer with Telegram-based alerting and traffic analysis.</b>
+
+<br><br>
+
+<h3>Cryptom</h3>
+<b>Cryptographic toolkit implementing AES-256-GCM and ChaCha20-Poly1305 secure encryption layers.</b>
+
+<br><br>
+
+<h3>C0ck Obfuscator</h3>
+<b>File obfuscation engine designed for binary transformation and signature evasion research.</b>
+
+<br><br>
+
+<h3>webSosint</h3>
+<b>OSINT and domain intelligence framework with integrated Google dorking automation system.</b>
+
+</div>
+
+---
+
+<h2 align="center">OPERATIONS / CLOSED CASES</h2>
+
+<div align="center">
+
+<h3>[ mineblaze.net ]</h3>
+<b>→ 10 vulnerabilities discovered in 1 hour</b><br>
+<b>status: CLOSED</b>
+
+<br><br>
+
+<h3>[ tgpremka ]</h3>
+<b>→ 13 vulnerabilities discovered in 34 minutes</b><br>
+<b>status: CLOSED</b>
+
+<br><br>
+
+<h3>[ musteryworld.net ]</h3>
+<b>→ 10 vulnerabilities discovered in 40 minutes</b><br>
+<b>status: CLOSED</b>
+
+<br><br>
+
+<h3>[ dexland.org ]</h3>
+<b>→ 10 vulnerabilities discovered in 1 hour</b><br>
+<b>status: CLOSED</b>
+
+<br><br>
+
+<h3>[ lainlife.ru ]</h3>
+<b>→ 19 vulnerabilities discovered in ~2 hours</b><br>
+<b>status: CLOSED</b>
+
+</div>
 
 ---
 
-```text
-TARGET              METRICS                   STATUS
-[-] mineblaze.net   -> 10 vulns found / 1h    [CLOSED]
-[-] tgpremka        -> 13 vulns found / 34m   [CLOSED]
-[-] musteryworld.net-> 10 vulns found / 40m   [CLOSED]
-[-] dexland.org     -> 10 vulns found / 1h    [CLOSED]
-[-] lainlife.ru     -> 19 vulns found / ~2h   [CLOSED]
+<h2 align="center">TEAM</h2>
 
-```
+<div align="center">
+
+<h3><b><a href="https://un-sec.github.io">https://un-sec.github.io</a></b></h3>
+
+</div>
 
 ---
 
-```text
-🔗 NETWORK INFRASTRUCTURE :: [https://un-sec.github.io](https://un-sec.github.io)
+<h2 align="center">CONTACT</h2>
 
-```
+<div align="center">
 
----
+<h3><b>Telegram: <a href="https://t.me/Localhost54">@Localhost54</a></b></h3>
+<h3><b>Email: <a href="mailto:marpelskiy98@cocaine.ninja">marpelskiy98@cocaine.ninja</a></b></h3>
 
-```text
-⚡ TELEGRAM  :: @Localhost54
-⚡ EMAIL     :: marpelskiy98@cocaine.ninja
-
-```
+</div>
 
 ---
+
+<div align="center">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJncmJ4MHBnaW5scWJ3ZXhndnBsM2F3c2xrb2E0MDBtY3RpNTM4dSZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9Zw/7fuXkuvgjXp9v7M6y9/giphy.gif" width="55%"/>
+
+</div>
