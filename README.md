@@ -12,7 +12,6 @@
 
 <br><br>
 
-<!-- MAIN CYBER VISUAL -->
 <img src="https://media.tenor.com/0G7gk7Q2d8kAAAAC/cyber-security-hacker.gif" width="85%"/>
 
 </div>
@@ -22,14 +21,18 @@
 # <h1 align="center">TECHNICAL PROFILE</h1>
 
 ```txt
-Languages:
+LANGUAGES:
 C++ | C | Python | Assembly | JavaScript | Arduino
 
-Systems:
-Arch | Void | Gentoo | Debian | Fedora | NixOS
+SYSTEMS:
+Arch Linux | Void Linux | Gentoo | Debian | Fedora | NixOS
 
-Expertise:
-Network Security | OSINT | Encryption | Obfuscation | Pentest | Reverse Engineering
+EXPERTISE:
+Network Security Engineering
+OSINT & Reconnaissance Systems
+Cryptography & Secure Systems Design
+Web Application Penetration Testing
+Reverse Engineering & Binary Analysis
 ```
 
 ---
@@ -37,23 +40,46 @@ Network Security | OSINT | Encryption | Obfuscation | Pentest | Reverse Engineer
 # <h1 align="center">PROJECTS</h1>
 
 ```txt
-Answer Now → AI-powered automated solver
-pySniff → WiFi sniffer + Telegram integration
-Crypton → AES-256-GCM + ChaCha20 toolkit
-C0ck Obfuscator → file obfuscation engine
-webSosint → OSINT + domain intelligence + dorking
+Answer Now
+AI-powered automated test solver with automation logic and adaptive response generation.
+
+pySniff
+Advanced WiFi packet sniffer with Telegram-based alerting and traffic analysis.
+
+Crypton
+Cryptographic toolkit implementing AES-256-GCM and ChaCha20-Poly1305 secure encryption layers.
+
+C0ck Obfuscator
+File obfuscation engine designed for binary transformation and signature evasion research.
+
+webSosint
+OSINT and domain intelligence framework with integrated Google dorking automation system.
 ```
 
 ---
 
-# <h1 align="center">OPERATIONS / CASES CLOSED</h1>
+# <h1 align="center">OPERATIONS / CLOSED CASES</h1>
 
 ```txt
-[ mineblaze.net ] → 10 vulnerabilities → CLOSED
-[ tgpremka ] → 13 vulnerabilities → CLOSED
-[ musteryworld.net ] → 10 vulnerabilities → CLOSED
-[ dexland.org ] → 10 vulnerabilities → CLOSED
-[ lainlife.ru ] → 19 vulnerabilities → CLOSED
+[ mineblaze.net ]
+→ 10 vulnerabilities discovered in 1 hour
+→ status: CLOSED
+
+[ tgpremka ]
+→ 13 vulnerabilities discovered in 34 minutes
+→ status: CLOSED
+
+[ musteryworld.net ]
+→ 10 vulnerabilities discovered in 40 minutes
+→ status: CLOSED
+
+[ dexland.org ]
+→ 10 vulnerabilities discovered in 1 hour
+→ status: CLOSED
+
+[ lainlife.ru ]
+→ 19 vulnerabilities discovered in ~2 hours (team operation)
+→ status: CLOSED
 ```
 
 ---
@@ -76,6 +102,11 @@ Email: marpelskiy98@cocaine.ninja
 ---
 
 <div align="center">
+
+<img src="https://media.tenor.com/8qZQn7b9qQ0AAAAC/broken-screen-glitch.gif" width="45%"/>
+<img src="https://media.tenor.com/7QJkz8G3k9MAAAAC/code-hacking.gif" width="45%"/>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=140&section=footer"/>
 
