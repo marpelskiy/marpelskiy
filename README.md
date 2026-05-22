@@ -35,12 +35,7 @@ Reverse Engineering & Binary Analysis
 
 # <h1 align="center">PROJECTS</h1>
 
-<div align="center">
 
-<!-- NEW EXECUTION MONITOR GIF -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJncmJ4MHBnaW5scWJ3ZXhndnBsM2F3c2xrb2E0MDBtY3RpNTM4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7fuXkuvgjXp9v7M6y9/giphy.gif" width="75%"/>
-
-</div>
 
 ```txt
 Answer Now
@@ -101,3 +96,9 @@ https://un-sec.github.io
 Telegram: @Localhost54
 Email: marpelskiy98@cocaine.ninja
 ```
+<div align="center">
+
+<!-- NEW EXECUTION MONITOR GIF -->
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJncmJ4MHBnaW5scWJ3ZXhndnBsM2F3c2xrb2E0MDBtY3RpNTM4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7fuXkuvgjXp9v7M6y9/giphy.gif" width="75%"/>
+
+</div>
