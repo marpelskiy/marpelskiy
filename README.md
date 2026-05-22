@@ -14,10 +14,15 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://api.iconify.design/svg-spinners:pulse-2.svg?color=%2300ff99" width="22" height="22" valign="middle"/> 
-  <code>[ 0x01 // TECHNICAL PROFILE ]</code>
-</h2>
+<!-- ЗАГОЛОВОК 1: TECHNICAL PROFILE -->
+<div align="center">
+  <svg width="350" height="40" viewBox="0 0 350 40" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="25" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="20" font-weight="bold" text-anchor="middle">
+      TECHNICAL PROFILE
+      <animate attributeName="opacity" values="0.85;0.45;0.85" dur="3s" repeatCount="indefinite" />
+    </text>
+  </svg>
+</div>
 
 <div align="center">
 
@@ -61,10 +66,15 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://api.iconify.design/svg-spinners:pulse-2.svg?color=%2300ff99" width="22" height="22" valign="middle"/> 
-  <code>[ 0x02 // PROJECTS ]</code>
-</h2>
+<!-- ЗАГОЛОВОК 2: PROJECTS -->
+<div align="center">
+  <svg width="200" height="40" viewBox="0 0 200 40" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="25" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="20" font-weight="bold" text-anchor="middle">
+      PROJECTS
+      <animate attributeName="opacity" values="0.85;0.45;0.85" dur="3s" repeatCount="indefinite" />
+    </text>
+  </svg>
+</div>
 
 <div align="center">
 
@@ -95,10 +105,15 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://api.iconify.design/svg-spinners:pulse-2.svg?color=%2300ff99" width="22" height="22" valign="middle"/> 
-  <code>[ 0x03 // OPERATIONS / CLOSED CASES ]</code>
-</h2>
+<!-- ЗАГОЛОВОК 3: OPERATIONS / CLOSED CASES -->
+<div align="center">
+  <svg width="400" height="40" viewBox="0 0 400 40" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="25" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="20" font-weight="bold" text-anchor="middle">
+      OPERATIONS / CLOSED CASES
+      <animate attributeName="opacity" values="0.85;0.45;0.85" dur="3s" repeatCount="indefinite" />
+    </text>
+  </svg>
+</div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 14px; justify-content: center; margin-top: 20px;">
 
@@ -197,10 +212,15 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://api.iconify.design/svg-spinners:pulse-2.svg?color=%2300ff99" width="22" height="22" valign="middle"/> 
-  <code>[ 0x04 // TEAM ]</code>
-</h2>
+<!-- ЗАГОЛОВОК 4: TEAM -->
+<div align="center">
+  <svg width="150" height="40" viewBox="0 0 150 40" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="25" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="20" font-weight="bold" text-anchor="middle">
+      TEAM
+      <animate attributeName="opacity" values="0.85;0.45;0.85" dur="3s" repeatCount="indefinite" />
+    </text>
+  </svg>
+</div>
 
 <div align="center">
 
@@ -214,10 +234,15 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://api.iconify.design/svg-spinners:pulse-2.svg?color=%2300ff99" width="22" height="22" valign="middle"/> 
-  <code>[ 0x05 // CONTACT ]</code>
-</h2>
+<!-- ЗАГОЛОВОК 5: CONTACT -->
+<div align="center">
+  <svg width="180" height="40" viewBox="0 0 180 40" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="25" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="20" font-weight="bold" text-anchor="middle">
+      CONTACT
+      <animate attributeName="opacity" values="0.85;0.45;0.85" dur="3s" repeatCount="indefinite" />
+    </text>
+  </svg>
+</div>
 
 <div align="center">
 
