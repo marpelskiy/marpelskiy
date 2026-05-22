@@ -1,6 +1,37 @@
 <div align="center">
 
-<h1>MARPELSKIY</h1>
+<!-- ЛОГОТИП MARPELSKIY -->
+<svg width="650" height="120" viewBox="0 0 650 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Фоновое свечение (Glow effect) -->
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Декоративные хакерские элементы по бокам -->
+  <path d="M 10 30 L 50 30 L 60 40 M 10 30 L 10 90 L 20 100" stroke="#00ff99" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 640 90 L 600 90 L 590 80 M 640 90 L 640 30 L 630 20" stroke="#00ff99" stroke-width="2" fill="none" opacity="0.6"/>
+  
+  <!-- Двоичный бэкграунд на фоне (Binary decor) -->
+  <text x="70" y="25" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="10" opacity="0.15">01001101 01000001</text>
+  <text x="490" y="105" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="10" opacity="0.15">01011001 00001010</text>
+
+  <!-- Главный текст: крупный, жирный, статичный -->
+  <text x="50%" y="75" fill="#00ff99" font-family="Impact, 'Arial Black', sans-serif" font-size="64" font-weight="900" letter-spacing="8" text-anchor="middle" filter="url(#glow)">
+    MARPELSKIY
+  </text>
+
+  <!-- Нижняя подчеркивающая линия в стиле интерфейса -->
+  <line x1="150" y1="95" x2="500" y2="95" stroke="#00ff99" stroke-width="3" opacity="0.8" />
+  <rect x="310" y="92" width="30" height="7" fill="#00ff99" />
+</svg>
+
+<br>
 
 <a href="https://un-sec.github.io" target="_blank">
   <img src="https://img.shields.io/static/v1?label=un-sec&message=team&color=00ff99&labelColor=black&style=for-the-badge" alt="un-sec team"/>
@@ -16,10 +47,9 @@
 
 <!-- ЗАГОЛОВОК 1: TECHNICAL PROFILE -->
 <div align="center">
-  <svg width="350" height="40" viewBox="0 0 350 40" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="25" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="20" font-weight="bold" text-anchor="middle">
-      TECHNICAL PROFILE
-      <animate attributeName="opacity" values="0.85;0.45;0.85" dur="3s" repeatCount="indefinite" />
+  <svg width="400" height="50" viewBox="0 0 400 50" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="32" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="24" font-weight="900" letter-spacing="1" text-anchor="middle">
+      // TECHNICAL PROFILE
     </text>
   </svg>
 </div>
@@ -68,10 +98,9 @@
 
 <!-- ЗАГОЛОВОК 2: PROJECTS -->
 <div align="center">
-  <svg width="200" height="40" viewBox="0 0 200 40" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="25" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="20" font-weight="bold" text-anchor="middle">
-      PROJECTS
-      <animate attributeName="opacity" values="0.85;0.45;0.85" dur="3s" repeatCount="indefinite" />
+  <svg width="250" height="50" viewBox="0 0 250 50" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="32" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="24" font-weight="900" letter-spacing="1" text-anchor="middle">
+      // PROJECTS
     </text>
   </svg>
 </div>
@@ -107,10 +136,9 @@
 
 <!-- ЗАГОЛОВОК 3: OPERATIONS / CLOSED CASES -->
 <div align="center">
-  <svg width="400" height="40" viewBox="0 0 400 40" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="25" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="20" font-weight="bold" text-anchor="middle">
-      OPERATIONS / CLOSED CASES
-      <animate attributeName="opacity" values="0.85;0.45;0.85" dur="3s" repeatCount="indefinite" />
+  <svg width="450" height="50" viewBox="0 0 450 50" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="32" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="24" font-weight="900" letter-spacing="1" text-anchor="middle">
+      // OPERATIONS / CLOSED CASES
     </text>
   </svg>
 </div>
@@ -214,10 +242,9 @@
 
 <!-- ЗАГОЛОВОК 4: TEAM -->
 <div align="center">
-  <svg width="150" height="40" viewBox="0 0 150 40" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="25" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="20" font-weight="bold" text-anchor="middle">
-      TEAM
-      <animate attributeName="opacity" values="0.85;0.45;0.85" dur="3s" repeatCount="indefinite" />
+  <svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="32" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="24" font-weight="900" letter-spacing="1" text-anchor="middle">
+      // TEAM
     </text>
   </svg>
 </div>
@@ -236,10 +263,9 @@
 
 <!-- ЗАГОЛОВОК 5: CONTACT -->
 <div align="center">
-  <svg width="180" height="40" viewBox="0 0 180 40" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="25" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="20" font-weight="bold" text-anchor="middle">
-      CONTACT
-      <animate attributeName="opacity" values="0.85;0.45;0.85" dur="3s" repeatCount="indefinite" />
+  <svg width="250" height="50" viewBox="0 0 250 50" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="32" fill="#00ff99" font-family="JetBrains Mono, monospace" font-size="24" font-weight="900" letter-spacing="1" text-anchor="middle">
+      // CONTACT
     </text>
   </svg>
 </div>
