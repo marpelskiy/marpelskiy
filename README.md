@@ -134,7 +134,7 @@
 
 <b>status: <span style="color:#00ff99;">CLOSED</span></b>
 
-<br><br>
+
 
 <br><br>
 
