@@ -7,22 +7,22 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FFFFFF&center=true&width=600&lines=OSINT+Specialist;Reverse+Engineering;Network+Security;Binary+Obfuscation;Embedded+Systems">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&width=600&lines=OSINT+Specialist;Reverse+Engineering;Network+Security;Binary+Obfuscation;Embedded+Systems">
 
 ---
 
-### <img src="https://img.icons8.com/ios/24/FFFFFF/code.png"/> Tech Stack
+### <img src="https://img.icons8.com/ios/24/00FF00/code.png"/> Tech Stack
 
-<img src="https://img.shields.io/badge/C++-white?style=flat&logo=cplusplus&logoColor=00599C">
-<img src="https://img.shields.io/badge/C-white?style=flat&logo=c&logoColor=A8B9CC">
-<img src="https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=3776AB">
-<img src="https://img.shields.io/badge/Assembly-white?style=flat&logo=assemblyscript&logoColor=6E4A7E">
-<img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/Embedded_Systems-white?style=flat&logo=espressif&logoColor=E74C3C">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Assembly-6E4A7E?style=flat&logo=assemblyscript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Embedded_Systems-00979D?style=flat&logo=arduino&logoColor=white">
 
 ---
 
-### <img src="https://img.icons8.com/ios/24/FFFFFF/rocket.png"/> Featured Projects
+### <img src="https://img.icons8.com/ios/24/00FF00/rocket.png"/> Featured Projects
 
 Answer Now — AI-powered automated test solver.  
 pySniff — Smart WiFi sniffer with TG integration.  
@@ -32,7 +32,7 @@ webSosint — Domain intelligence & OSINT automation.
 
 ---
 
-### <img src="https://img.icons8.com/ios/24/FFFFFF/shield.png"/> Security Impact (Closed Cases)
+### <img src="https://img.icons8.com/ios/24/00FF00/shield.png"/> Security Impact (Closed Cases)
 
 **mineblaze.net** 10 vulnerabilities found in 1 hour | Status: CLOSED  
 <br>
@@ -53,23 +53,23 @@ webSosint — Domain intelligence & OSINT automation.
 
 ---
 
-### <img src="https://img.icons8.com/ios/24/FFFFFF/handshake.png"/> Collaborations
+### <img src="https://img.icons8.com/ios/24/00FF00/handshake.png"/> Collaborations
 
 **s010vloon** Contributed 3 custom tools for knowledge base integration.
 
 ---
 
-### <img src="https://img.icons8.com/ios/24/FFFFFF/contact-card.png"/> Contact
+### <img src="https://img.icons8.com/ios/24/00FF00/contact-card.png"/> Contact
 
 Telegram: @Localhost54  
 Email: marpelskiy98@cocaine.ninja
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=marpelskiy&style=flat&color=333333">
+<img src="https://komarev.com/ghpvc/?username=marpelskiy&style=flat&color=00FF00">
 
 <br><br>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9oZnQybzNmMHFoOGt3cnV2OW9iOGljZjkxNWxzN2w3ZW51N3ZyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QqwajnOjzDViSEM3Xu/giphy.gif" width="400px">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJkaGF6ZHRuM3Q5Zm41ajdzaGhjd2l5dGk0NTljaGh6bzg5ZXV0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wtEzcKIMOEEDe/giphy.gif" width="400px">
 
 </div>
