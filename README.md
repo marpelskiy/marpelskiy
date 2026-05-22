@@ -13,23 +13,23 @@
 
 ### <img src="https://img.icons8.com/ios/24/00FF00/code.png"/> Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,asm,arduino" /><br>
-  <b>C++ | C | Python | JavaScript | Assembly | Microcontrollers</b>
-</div>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
+<img src="https://img.shields.io/badge/Assembly-6E4A7E?style=flat&logo=assemblyscript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microcontrollers-00979D?style=flat&logo=microchip&logoColor=white"/>
+<br>
+<b>C++ | C | Python | JavaScript | Assembly | Microcontrollers</b>
 
 ---
 
 ### <img src="https://img.icons8.com/ios/24/00FF00/linux.png"/> OS & Systems
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=arch,gentoo,debian,fedora,nixos" /><br>
-  <b>Arch | Gentoo | Debian | Fedora | NixOS</b><br><br>
-  <img src="https://img.shields.io/badge/Void-000000?style=for-the-badge&logo=voidlinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CachyOS-000000?style=for-the-badge&logo=archlinux&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Whonix-000000?style=for-the-badge&logo=whonix&logoColor=white"/>
-</div>
+<img src="https://skillicons.dev/icons?i=arch,gentoo,debian,fedora,nixos" />
+<img src="https://img.shields.io/badge/Void-000000?style=flat&logo=voidlinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/CachyOS-000000?style=flat&logo=archlinux&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Tails-56347C?style=flat&logo=tails&logoColor=white"/>
+<img src="https://img.shields.io/badge/Whonix-000000?style=flat&logo=whonix&logoColor=white"/>
+<br>
+<b>Arch | Gentoo | Debian | Fedora | NixOS | Void | CachyOS | Tails | Whonix</b>
 
 ---
 
