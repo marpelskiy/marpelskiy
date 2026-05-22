@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJkaGF6ZHRuM3Q5Zm41ajdzaGhjd2l5dGk0NTljaGh6bzg5ZXV0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wtEzcKIMOEEDe/giphy.gif" width="100%">
+
 
 # marpelskiy
 ### Systems & Security Engineer
@@ -13,20 +13,29 @@
 
 ---
 
-### <img src="https://img.icons8.com/fluency/32/000000/source-code.png"/> Tech Stack
+### <img src="https://img.icons8.com/ios/24/00FF00/code.png"/> Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Assembly-6E4A7E?style=for-the-badge&logo=assemblyscript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Embedded_Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-</p>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Assembly-6E4A7E?style=flat&logo=assemblyscript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Microcontrollers-00979D?style=flat&logo=microchip&logoColor=white">
 
 ---
 
-### <img src="https://img.icons8.com/fluency/32/000000/rocket.png"/> Featured Projects
+### <img src="https://img.icons8.com/ios/24/00FF00/linux.png"/> Systems
+
+<img src="https://img.shields.io/badge/Gentoo-FF1493?style=flat&logo=gentoo&logoColor=white">
+<img src="https://img.shields.io/badge/Arch-1793D1?style=flat&logo=archlinux&logoColor=white">
+<img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white">
+<img src="https://img.shields.io/badge/Tails-56347C?style=flat&logo=tails&logoColor=white">
+<img src="https://img.shields.io/badge/Whonix-000000?style=flat&logo=whonix&logoColor=white">
+<img src="https://img.shields.io/badge/Fedora-06418E?style=flat&logo=fedora&logoColor=white">
+
+---
+
+### <img src="https://img.icons8.com/ios/24/00FF00/rocket.png"/> Featured Projects
 
 <div align="left" style="margin-left: 20%;">
   • <b>Answer Now</b> — AI-powered automated test solver.<br>
@@ -38,7 +47,7 @@
 
 ---
 
-### <img src="https://img.icons8.com/fluency/32/000000/shield.png"/> Security Impact (Closed Cases)
+### <img src="https://img.icons8.com/ios/24/00FF00/shield.png"/> Security Impact (Closed Cases)
 
 <div align="center">
   <table border="0">
@@ -53,18 +62,20 @@
 
 ---
 
-### <img src="https://img.icons8.com/fluency/32/000000/handshake.png"/> Collaborations
+### <img src="https://img.icons8.com/ios/24/00FF00/handshake.png"/> Collaborations
 
 **s010vloon** — Contributed 3 custom tools for knowledge base integration.
 
 ---
 
-### <img src="https://img.icons8.com/fluency/32/000000/secured-letter.png"/> Contact
+### <img src="https://img.icons8.com/ios/24/00FF00/contact-card.png"/> Contact
 
-**Telegram:** [@Localhost54](https://t.me/Localhost54) | **Email:** [marpelskiy98@cocaine.ninja](mailto:marpelskiy98@cocaine.ninja)
+Telegram: [@Localhost54](https://t.me/Localhost54) | Email: [marpelskiy98@cocaine.ninja](mailto:marpelskiy98@cocaine.ninja)
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=marpelskiy&style=flat-square&color=00FF00">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJkaGF6ZHRuM3Q5Zm41ajdzaGhjd2l5dGk0NTljaGh6bzg5ZXV0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wtEzcKIMOEEDe/giphy.gif" width="100%">
 
 </div>
