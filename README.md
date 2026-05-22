@@ -90,65 +90,58 @@
 
 <h2 align="center">OPERATIONS / CLOSED CASES</h2>
 
+<!-- Ограничиваем высоту в 400px и добавляем скролл -->
+<div align="center" style="max-height: 400px; overflow-y: auto; border: 1px solid #30363d; border-radius: 6px; padding: 20px; background: #0d1117;">
 
-<div align="center">
-<h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>mineblaze.net</code> ]</h3>
-<b>→ 10 vulnerabilities discovered in 1 hour</b><br>
-<b>status: <span style="color:#00ff99;">CLOSED</span></b>
-<b>→ 8 classified as <span style="color:#ff3b3b;">CRITICAL</span></b><br>
-<b>→ <span style="color:#00ff99;">team work (with Agent231-src)</span></b><br>
+  <h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>mineblaze.net</code> ]</h3>
+  <b>→ 10 vulnerabilities discovered in 1 hour</b><br>
+  <b>status: <span style="color:#00ff99;">CLOSED</span></b><br>
+  <b>→ 8 classified as <span style="color:#ff3b3b;">CRITICAL</span></b><br>
+  <b>→ <span style="color:#00ff99;">team work (with Agent231-src)</span></b>
 
-<br><br>
+  <br><hr style="border: 0; border-top: 1px dashed #30363d; margin: 20px 0;"><br>
 
-<h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>tgpremka</code> ]</h3>
-<b>→ 13 vulnerabilities discovered in 34 minutes</b><br>
-<b>status: <span style="color:#00ff99;">CLOSED</span></b>
+  <h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>tgpremka</code> ]</h3>
+  <b>→ 13 vulnerabilities discovered in 34 minutes</b><br>
+  <b>status: <span style="color:#00ff99;">CLOSED</span></b>
 
-<br><br>
+  <br><hr style="border: 0; border-top: 1px dashed #30363d; margin: 20px 0;"><br>
 
-<h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>musteryworld.net</code> ]</h3>
-<b>→ 10 vulnerabilities discovered in 40 minutes</b><br>
-<b>status: <span style="color:#00ff99;">CLOSED</span></b>
+  <h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>musteryworld.net</code> ]</h3>
+  <b>→ 10 vulnerabilities discovered in 40 minutes</b><br>
+  <b>status: <span style="color:#00ff99;">CLOSED</span></b>
 
-<br><br>
+  <br><hr style="border: 0; border-top: 1px dashed #30363d; margin: 20px 0;"><br>
 
-<h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>dexland.org</code> ]</h3>
-<b>→ 10 vulnerabilities discovered in 1 hour</b><br>
-<b>status: <span style="color:#00ff99;">CLOSED</span></b>
+  <h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>dexland.org</code> ]</h3>
+  <b>→ 10 vulnerabilities discovered in 1 hour</b><br>
+  <b>status: <span style="color:#00ff99;">CLOSED</span></b>
 
-<br><br>
+  <br><hr style="border: 0; border-top: 1px dashed #30363d; margin: 20px 0;"><br>
 
-<h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>lainlife.ru</code> ]</h3>
-<b>→ 19 vulnerabilities discovered in ~2 hours</b><br>
-<b>status: <span style="color:#00ff99;">CLOSED</span></b>
-<b>→ 7 classified as <span style="color:#ff3b3b;">CRITICAL</span></b><br>
-<b>→ <span style="color:#00ff99;">team work (un-sec)</span></b><br>
+  <h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>lainlife.ru</code> ]</h3>
+  <b>→ 19 vulnerabilities discovered in ~2 hours</b><br>
+  <b>status: <span style="color:#00ff99;">CLOSED</span></b><br>
+  <b>→ 7 classified as <span style="color:#ff3b3b;">CRITICAL</span></b><br>
+  <b>→ <span style="color:#00ff99;">team work (un-sec)</span></b>
 
-<br><br>
+  <br><hr style="border: 0; border-top: 1px dashed #30363d; margin: 20px 0;"><br>
 
-<h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>openvk.org</code> ]</h3>
+  <h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>openvk.org</code> ]</h3>
+  <b>→ 9 vulnerabilities discovered in 4 hours</b><br>
+  <b>→ 8 classified as <span style="color:#ff3b3b;">CRITICAL</span></b><br>
+  <b>→ <span style="color:#00ff99;">team work (un-sec)</span></b><br>
+  <b>status: <span style="color:#00ff99;">CLOSED</span></b>
 
-<b>→ 9 vulnerabilities discovered in 4 hours</b><br>
-<b>→ 8 classified as <span style="color:#ff3b3b;">CRITICAL</span></b><br>
-<b>→ <span style="color:#00ff99;">team work (un-sec)</span></b><br>
+  <br><hr style="border: 0; border-top: 1px dashed #30363d; margin: 20px 0;"><br>
 
-<b>status: <span style="color:#00ff99;">CLOSED</span></b>
-
-<br><br>
-
-<h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>s010vloon</code> ]</h3>
-
-<b>→ coordinated <span style="color:#00ff99;">team effort</span> with <code>s010vloon</code></b><br>
-
-<b>→ knowledge base updated:</b><br>
-&nbsp;&nbsp;• <code>webSosint</code><br>
-&nbsp;&nbsp;• <code>pySniff</code><br>
-&nbsp;&nbsp;• <code>C0ck Obfuscator</code><br>
-&nbsp;&nbsp;<span style="color:#8b949e;">(tools added to internal reference database)</span><br>
-
-
-
-<br><br>
+  <h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>s010vloon</code> ]</h3>
+  <b>→ coordinated <span style="color:#00ff99;">team effort</span> with <code>s010vloon</code></b><br>
+  <b>→ knowledge base updated:</b><br>
+  &nbsp;&nbsp;• <code>webSosint</code><br>
+  &nbsp;&nbsp;• <code>pySniff</code><br>
+  &nbsp;&nbsp;• <code>C0ck Obfuscator</code><br>
+  &nbsp;&nbsp;<span style="color:#8b949e;">(tools added to internal reference database)</span><br>
 
 </div>
 
