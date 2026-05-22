@@ -1,3 +1,4 @@
+````md
 <div align="center">
 
 # marpelskiy
@@ -24,31 +25,37 @@ $ whoami
 marpelskiy
 Systems & Security Engineer
 member of un-sec
-```
+````
 
 <br>
 
-<img align="right" src="https://i.pinimg.com/originals/7d/63/f1/7d63f1d886d9e6c6a4b8c5d8fbb64d7f.gif" width="340"/>
+<div align="center">
 
-## Tech Stack
+<img src="https://media.tenor.com/oqyUP8olluoAAAAd/hacker-hacking.gif" width="100%"/>
+
+</div>
+
+---
+
+# Tech Stack
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge\&logo=c%2B%2B)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge\&logo=c)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python)
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge\&logo=arduino)
 
 ### Systems
 
-![Arch](https://img.shields.io/badge/Arch-111111?style=for-the-badge&logo=arch-linux)
+![Arch](https://img.shields.io/badge/Arch-111111?style=for-the-badge\&logo=arch-linux)
 ![Void](https://img.shields.io/badge/Void-111111?style=for-the-badge)
-![Gentoo](https://img.shields.io/badge/Gentoo-111111?style=for-the-badge&logo=gentoo)
-![Debian](https://img.shields.io/badge/Debian-111111?style=for-the-badge&logo=debian)
-![Fedora](https://img.shields.io/badge/Fedora-111111?style=for-the-badge&logo=fedora)
-![NixOS](https://img.shields.io/badge/NixOS-111111?style=for-the-badge&logo=nixos)
+![Gentoo](https://img.shields.io/badge/Gentoo-111111?style=for-the-badge\&logo=gentoo)
+![Debian](https://img.shields.io/badge/Debian-111111?style=for-the-badge\&logo=debian)
+![Fedora](https://img.shields.io/badge/Fedora-111111?style=for-the-badge\&logo=fedora)
+![NixOS](https://img.shields.io/badge/NixOS-111111?style=for-the-badge\&logo=nixos)
 
 ### Expertise
 
@@ -65,7 +72,16 @@ Reverse Engineering
 
 # Projects
 
+<div align="center">
+
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAd/coding.gif" width="100%"/>
+
+</div>
+
+---
+
 ## Answer Now
+
 AI-powered automated test solver.
 
 ```python
@@ -77,6 +93,7 @@ generate_answer()
 ---
 
 ## pySniff
+
 Smart WiFi sniffer with Telegram integration.
 
 ```bash
@@ -86,6 +103,7 @@ capture -> analyze -> telegram
 ---
 
 ## Crypton
+
 AES-256-GCM + ChaCha20-Poly1305 toolkit.
 
 ```cpp
@@ -97,6 +115,7 @@ wipe_traces();
 ---
 
 ## C0ck Obfuscator
+
 Custom file obfuscation engine.
 
 ```txt
@@ -106,6 +125,7 @@ mutate -> encrypt -> obfuscate
 ---
 
 ## webSosint
+
 Domain intelligence, Google dork generator & OSINT framework.
 
 ```bash
@@ -118,7 +138,13 @@ dork()
 
 # Closed Cases
 
-<img align="right" src="https://i.pinimg.com/originals/2f/08/7e/2f087e2f6f9f9eb4d91e6b5b4db2d5cb.gif" width="280"/>
+<div align="center">
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" width="100%"/>
+
+</div>
+
+---
 
 ```txt
 [ mineblaze.net ]
@@ -167,8 +193,11 @@ Telegram : @Localhost54
 Email    : marpelskiy98@cocaine.ninja
 ```
 
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=140&section=footer"/>
 
 </div>
+```
