@@ -12,7 +12,8 @@
 
 <br><br>
 
-<img src="https://media.tenor.com/0G7gk7Q2d8kAAAAC/cyber-security-hacker.gif" width="85%"/>
+<!-- MAIN MONITOR / CYBER SCREEN -->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFyOGV5aDRvcnc4bmV2NTl2MTE2ZG9jaTV3cTVhYXdsa2lrNWh2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OaC8uQkJYwu3AMOzSl/giphy.gif" width="85%"/>
 
 </div>
 
@@ -100,10 +101,3 @@ Email: marpelskiy98@cocaine.ninja
 ```
 
 ---
-
-<div align="center">
-
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B6eXl5b2h4b2p0b3J2d2V2dGJmZ2Z1Z2Z6dG5mY3V5dWJtZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80%"/>
-
-</div>
