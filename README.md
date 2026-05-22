@@ -1,3 +1,4 @@
+```html
 <div align="center">
 
 # marpelskiy
@@ -16,12 +17,27 @@
 
 # <h1 align="center">TECHNICAL PROFILE</h1>
 
-```txt
+<div align="center">
+
+```
+
 LANGUAGES:
 C++ | C | Python | Assembly | JavaScript | Arduino
 
+```
+
+<br>
+
+```
+
 SYSTEMS:
 Arch Linux | Void Linux | Gentoo | Debian | Fedora | NixOS
+
+```
+
+<br>
+
+```
 
 EXPERTISE:
 Network Security Engineering
@@ -29,13 +45,19 @@ OSINT & Reconnaissance Systems
 Cryptography & Secure Systems Design
 Web Application Penetration Testing
 Reverse Engineering & Binary Analysis
+
 ```
+
+</div>
 
 ---
 
 # <h1 align="center">PROJECTS</h1>
 
-```txt
+<div align="center">
+
+```
+
 Answer Now
 AI-powered automated test solver with automation logic and adaptive response generation.
 
@@ -50,13 +72,19 @@ File obfuscation engine designed for binary transformation and signature evasion
 
 webSosint
 OSINT and domain intelligence framework with integrated Google dorking automation system.
+
 ```
+
+</div>
 
 ---
 
 # <h1 align="center">OPERATIONS / CLOSED CASES</h1>
 
-```txt
+<div align="center">
+
+```
+
 [ mineblaze.net ]
 → 10 vulnerabilities discovered in 1 hour
 → status: CLOSED
@@ -76,27 +104,43 @@ OSINT and domain intelligence framework with integrated Google dorking automatio
 [ lainlife.ru ]
 → 19 vulnerabilities discovered in ~2 hours
 → status: CLOSED
+
 ```
+
+</div>
 
 ---
 
 # <h1 align="center">TEAM</h1>
 
-```txt
-https://un-sec.github.io
+<div align="center">
+
 ```
+
+[https://un-sec.github.io](https://un-sec.github.io)
+
+```
+
+</div>
 
 ---
 
 # <h1 align="center">CONTACT</h1>
 
-```txt
-Telegram: @Localhost54
-Email: marpelskiy98@cocaine.ninja
+<div align="center">
+
 ```
+
+Telegram: @Localhost54
+Email: [marpelskiy98@cocaine.ninja](mailto:marpelskiy98@cocaine.ninja)
+
+```
+
+</div>
 
 ---
 
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJncmJ4MHBnaW5scWJ3ZXhndnBsM2F3c2xrb2E0MDBtY3RpNTM4dSZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9Zw/7fuXkuvgjXp9v7M6y9/giphy.gif" width="75%"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJncmJ4MHBnaW5scWJ3ZXhndnBsM2F3c2xrb2E0MDBtY3RpNTM4dSZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9Zw/7fuXkuvgjXp9v7M6y9/giphy.gif" width="55%"/>
 </div>
+```
