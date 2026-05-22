@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="22" height="22" valign="middle"/> C &nbsp;|&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22" height="22" valign="middle"/> Python &nbsp;|&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="22" height="22" valign="middle"/> JavaScript &nbsp;|&nbsp;
-  <img src="https://img.shields.io/badge/-MCU_Programming-black?style=flat&logo=microchip&logoColor=white" height="20" valign="middle"/> Hardware Programming (MCU)
+  <img src="https://api.iconify.design/ph:cpu-bold.svg?color=%2300ff99" width="22" height="22" valign="middle"/> Hardware Programming (MCU)
 </b>
 
 <br><br>
