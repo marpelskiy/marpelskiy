@@ -8,7 +8,11 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Systems+%26+Security+Engineer;OSINT+%7C+Pentest+%7C+Encryption;C%2FC%2B%2B+%7C+Python+%7C+Assembly;Linux+Power+User;member+of+un-sec" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Systems+%26+Security+Engineer;OSINT+%7C+Pentest+%7C+Encryption;C%2FC%2B%2B+%7C+Python+%7C+Assembly;Linux+Power+User;member+of+un-sec" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -22,11 +26,14 @@ Systems & Security Engineer
 member of un-sec
 ```
 
-<img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="320"/>
+<br>
+
+<img align="right" src="https://i.pinimg.com/originals/7d/63/f1/7d63f1d886d9e6c6a4b8c5d8fbb64d7f.gif" width="340"/>
 
 ## Tech Stack
 
 ### Languages
+
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
@@ -35,6 +42,7 @@ member of un-sec
 ![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino)
 
 ### Systems
+
 ![Arch](https://img.shields.io/badge/Arch-111111?style=for-the-badge&logo=arch-linux)
 ![Void](https://img.shields.io/badge/Void-111111?style=for-the-badge)
 ![Gentoo](https://img.shields.io/badge/Gentoo-111111?style=for-the-badge&logo=gentoo)
@@ -43,6 +51,7 @@ member of un-sec
 ![NixOS](https://img.shields.io/badge/NixOS-111111?style=for-the-badge&logo=nixos)
 
 ### Expertise
+
 ```txt
 Network Security
 OSINT
@@ -109,6 +118,8 @@ dork()
 
 # Closed Cases
 
+<img align="right" src="https://i.pinimg.com/originals/2f/08/7e/2f087e2f6f9f9eb4d91e6b5b4db2d5cb.gif" width="280"/>
+
 ```txt
 [ mineblaze.net ]
 └─ 10 vulnerabilities found in 1 hour
@@ -137,9 +148,13 @@ dork()
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marpelskiy&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=marpelskiy&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marpelskiy&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marpelskiy&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=marpelskiy&theme=matrix&no-frame=true&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -154,6 +169,6 @@ Email    : marpelskiy98@cocaine.ninja
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=140&section=footer"/>
 
 </div>
