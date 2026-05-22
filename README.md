@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/W0VXFH5J4h59f8v1uD/giphy.gif" width="100%">
+
 # marpelskiy
 ### Systems & Security Engineer
 
@@ -49,7 +51,7 @@ webSosint — Domain intelligence & OSINT automation.
 **lainlife.ru** 19 vulnerabilities found in ~2 hours (team work) | Status: CLOSED  
 <br>
 
-**OpenVk** 10 vulnerabilities (8 CRITICAL) | Status: CLOSED  
+**OpenVk** 10 vulnerabilities (8 CRITICAL) found in 3 hours | Status: CLOSED  
 
 ---
 
