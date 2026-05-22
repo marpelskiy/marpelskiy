@@ -1,3 +1,6 @@
+
+
+```markdown
 <div align="center">
 
 # marpelskiy
@@ -44,54 +47,53 @@
 
 <br><br>
 
-<h3>CORE EXPERTISE</h3>
-<code>[✔] Network Security Engineering</code> &nbsp;|&nbsp; 
-<code>[✔] OSINT & Reconnaissance Systems</code> &nbsp;|&nbsp; 
-<code>[✔] Cryptography & Secure Systems Design</code>
-<br>
-<code>[✔] Web Application Penetration Testing</code> &nbsp;|&nbsp; 
-<code>[✔] Reverse Engineering & Binary Analysis</code>
+<h3>EXPERTISE</h3>
+<b>Network Security Engineering</b><br>
+<b>OSINT & Reconnaissance Systems</b><br>
+<b>Cryptography & Secure Systems Design</b><br>
+<b>Web Application Penetration Testing</b><br>
+<b>Reverse Engineering & Binary Analysis</b>
 
 </div>
 
 ---
 
-## 📁 REPOSITORIES & PROJECTS
+<h2 align="center">PROJECTS</h2>
 
-| Project Name | Cybersec Focus / Tech Stack | System Description |
-| :--- | :--- | :--- |
-| **[Answer Now](#)** | `Automation` `AI Logic` | AI-powered automated test solver with automation logic and adaptive response generation. |
-| **[pySniff](#)** | `Python` `Network Security` | Advanced WiFi packet sniffer with Telegram-based alerting and traffic analysis. |
-| **[Cryptom](#)** | `Cryptography` `Core` | Cryptographic toolkit implementing AES-256-GCM and ChaCha20-Poly1305 secure encryption layers. |
-| **[C0ck Obfuscator](#)** | `Reverse Eng.` `Obfuscation` | File obfuscation engine designed for binary transformation and signature evasion research. |
-| **[webSosint](#)** | `OSINT` `Recon` | OSINT and domain intelligence framework with integrated Google dorking automation system. |
+```text
+[01] Answer Now        :: AI-powered automated test solver / adaptive response generation
+[02] pySniff           :: Advanced WiFi packet sniffer / Telegram-based alerting
+[03] Cryptom           :: Cryptographic toolkit / AES-256-GCM & ChaCha20-Poly1305 layers
+[04] C0ck Obfuscator   :: Binary transformation engine / signature evasion research
+[05] webSosint         :: OSINT & domain intelligence / Google dorking automation
+
+```
 
 ---
 
-## 🎯 OPERATIONS / CLOSED CASES
+```text
+TARGET              METRICS                   STATUS
+[-] mineblaze.net   -> 10 vulns found / 1h    [CLOSED]
+[-] tgpremka        -> 13 vulns found / 34m   [CLOSED]
+[-] musteryworld.net-> 10 vulns found / 40m   [CLOSED]
+[-] dexland.org     -> 10 vulns found / 1h    [CLOSED]
+[-] lainlife.ru     -> 19 vulns found / ~2h   [CLOSED]
 
-```diff
-+ [TARGET IDENTIFIED] mineblaze.net
-! VULNERABILITIES FOUND: 10
-# TIME ELAPSED: 1 hour
-- STATUS: CLOSED
+```
 
-+ [TARGET IDENTIFIED] tgpremka
-! VULNERABILITIES FOUND: 13
-# TIME ELAPSED: 34 minutes
-- STATUS: CLOSED
+---
 
-+ [TARGET IDENTIFIED] musteryworld.net
-! VULNERABILITIES FOUND: 10
-# TIME ELAPSED: 40 minutes
-- STATUS: CLOSED
+```text
+🔗 NETWORK INFRASTRUCTURE :: [https://un-sec.github.io](https://un-sec.github.io)
 
-+ [TARGET IDENTIFIED] dexland.org
-! VULNERABILITIES FOUND: 10
-# TIME ELAPSED: 1 hour
-- STATUS: CLOSED
+```
 
-+ [TARGET IDENTIFIED] lainlife.ru
-! VULNERABILITIES FOUND: 19
-# TIME ELAPSED: ~2 hours
-- STATUS: CLOSED
+---
+
+```text
+⚡ TELEGRAM  :: @Localhost54
+⚡ EMAIL     :: marpelskiy98@cocaine.ninja
+
+```
+
+---
