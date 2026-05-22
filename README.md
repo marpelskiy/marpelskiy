@@ -13,27 +13,36 @@
 
 ### <img src="https://img.icons8.com/ios/24/00FF00/code.png"/> Tech Stack
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/ASM-6E4A7E?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCU-00979D?style=for-the-badge&logo=microchip&logoColor=white"/>
+<table align="center" border="0">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br><b>C++</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="40"/><br><b>C</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br><b>Python</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br><b>JS</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=asm" width="40"/><br><b>ASM</b></td>
+    <td align="center"><img src="https://img.icons8.com/color/40/microchip.png"/><br><b>MCU</b></td>
+  </tr>
+</table>
 
 ---
 
 ### <img src="https://img.icons8.com/ios/24/00FF00/linux.png"/> OS & Systems
 
-<img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gentoo-FF1493?style=for-the-badge&logo=gentoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fedora-06418E?style=for-the-badge&logo=fedora&logoColor=white"/>
-<img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Void-000000?style=for-the-badge&logo=voidlinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/CachyOS-000000?style=for-the-badge&logo=archlinux&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white"/>
-<img src="https://img.shields.io/badge/Whonix-000000?style=for-the-badge&logo=whonix&logoColor=white"/>
+<table align="center" border="0">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=arch" width="40"/><br><b>Arch</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gentoo" width="40"/><br><b>Gentoo</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=debian" width="40"/><br><b>Debian</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fedora" width="40"/><br><b>Fedora</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nixos" width="40"/><br><b>NixOS</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/40/linux.png"/><br><b>Void</b></td>
+    <td align="center"><img src="https://img.icons8.com/color/40/linux.png"/><br><b>CachyOS</b></td>
+    <td align="center"><img src="https://img.icons8.com/color/40/linux.png"/><br><b>Tails</b></td>
+    <td align="center"><img src="https://img.icons8.com/color/40/linux.png"/><br><b>Whonix</b></td>
+  </tr>
+</table>
 
 ---
 
