@@ -8,34 +8,16 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=SYSTEM+ACCESS+GRANTED;PENTEST+FRAMEWORK+NODE;OSINT+%7C+EXPLOIT+%7C+RECON+ENGINE;NETWORK+SECURITY+OPERATOR" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Systems+%26+Security+Engineer;OSINT+%7C+Pentest+%7C+Reverse+Engineering;Network+Security+Operator;un-sec+member" />
 
 <br><br>
 
-<!-- C2 / HUD PANEL -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff99&height=120&section=header&text=SECURITY%20CONTROL%20NODE&fontSize=28&fontColor=00ff99" />
+<!-- FLOATING TOOL AURA (under nickname animation block) -->
+<img src="https://media.tenor.com/8K3w4Q5Yw2oAAAAC/hacker-code.gif" width="45%"/>
+<img src="https://media.tenor.com/1Qb9Z9g9b6kAAAAC/matrix-hacker.gif" width="45%"/>
 
-</div>
+<br>
 
----
-
-```bash
-$ session init
-
-user: marpelskiy
-role: systems_security_engineer
-status: active
-node: un-sec
-access: elevated
-```
-
----
-
-# FLOATING TOOL MATRIX
-
-<div align="center">
-
-<!-- TOOL ICON GRID (FLOAT STYLE VISUAL) -->
 <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=linux&logoColor=00ff99"/>
 <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff99"/>
 <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff99"/>
@@ -45,102 +27,55 @@ access: elevated
 
 </div>
 
-<br>
-
-<div align="center">
-
-<!-- "FLOATING STYLE VISUAL LAYER" -->
-<img src="https://media.tenor.com/8K3w4Q5Yw2oAAAAC/hacker-code.gif" width="49%"/>
-<img src="https://media.tenor.com/1Qb9Z9g9b6kAAAAC/matrix-hacker.gif" width="49%"/>
-
-</div>
-
 ---
 
-# SYSTEM MODULES
+```txt
+Languages:
+C++ | C | Python | Assembly | JavaScript | Arduino
 
-```
-[ MODULE: RECON ]
-- network mapping
-- domain enumeration
-- fingerprinting
+Systems:
+Arch | Void | Gentoo | Debian | Fedora | NixOS
 
-[ MODULE: EXPLOIT ]
-- web exploitation
-- injection testing
-- payload delivery
-
-[ MODULE: WIRELESS ]
-- handshake capture
-- packet analysis
-- brute-force simulation
-
-[ MODULE: OSINT ]
-- data extraction
-- dork engine
-- identity mapping
+Expertise:
+Network Security | OSINT | Encryption | Obfuscation | Pentest | Reverse Engineering
 ```
 
 ---
 
-# CORE TOOLCHAIN
+```txt
+Projects:
 
-```
-Nmap            → network scanning core
-Wireshark       → packet inspection layer
-Burp Suite      → web interception proxy
-SQLmap          → injection automation engine
-Metasploit      → exploit orchestration framework
-Aircrack-ng     → wireless attack module
-```
-
----
-
-# ACTIVE OPERATIONS
-
-```
-[ mineblaze.net ]
-└─ vulnerabilities: 10
-└─ duration: 1h
-└─ status: CLOSED
-
-[ tgpremka ]
-└─ vulnerabilities: 13
-└─ duration: 34m
-└─ status: CLOSED
-
-[ musteryworld.net ]
-└─ vulnerabilities: 10
-└─ duration: 40m
-└─ status: CLOSED
-
-[ dexland.org ]
-└─ vulnerabilities: 10
-└─ duration: 1h
-└─ status: CLOSED
-
-[ lainlife.ru ]
-└─ vulnerabilities: 19
-└─ duration: ~2h
-└─ status: CLOSED
+Answer Now → AI-powered automated test solver
+pySniff → WiFi sniffer with Telegram integration
+Crypton → AES-256-GCM + ChaCha20 toolkit
+C0ck Obfuscator → file obfuscation engine
+webSosint → OSINT + dork + domain intelligence
 ```
 
 ---
 
-# ACCESS TERMINAL
+```txt
+Closed Cases:
 
-```bash
-Telegram : @Localhost54
-Email    : marpelskiy98@cocaine.ninja
-
-connection: encrypted
-status: stable
+[ mineblaze.net ] → 10 vulns → CLOSED
+[ tgpremka ] → 13 vulns → CLOSED
+[ musteryworld.net ] → 10 vulns → CLOSED
+[ dexland.org ] → 10 vulns → CLOSED
+[ lainlife.ru ] → 19 vulns → CLOSED
 ```
 
 ---
 
-<div align="center">
+```txt
+Team:
+https://un-sec.github.io
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=140&section=footer"/>
+---
 
-</div>
+```txt
+Contact:
+
+Telegram: @Localhost54
+Email: marpelskiy98@cocaine.ninja
+```
