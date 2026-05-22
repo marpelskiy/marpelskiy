@@ -78,7 +78,7 @@ OSINT and domain intelligence framework with integrated Google dorking automatio
 → status: CLOSED
 
 [ lainlife.ru ]
-→ 19 vulnerabilities discovered in ~2 hours (team operation)
+→ 19 vulnerabilities discovered in ~2 hours
 → status: CLOSED
 ```
 
@@ -103,11 +103,9 @@ Email: marpelskiy98@cocaine.ninja
 
 <div align="center">
 
-<img src="https://media.tenor.com/8qZQn7b9qQ0AAAAC/broken-screen-glitch.gif" width="45%"/>
-<img src="https://media.tenor.com/7QJkz8G3k9MAAAAC/code-hacking.gif" width="45%"/>
+<img src="https://media.tenor.com/7Xk0Q5bGq8MAAAAC/glitch-matrix-dark.gif" width="48%"/>
+<img src="https://media.tenor.com/3bQ8m7k2rYcAAAAC/hacker-terminal-code.gif" width="48%"/>
 
 <br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=140&section=footer"/>
 
 </div>
