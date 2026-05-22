@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1>marpelskiy</h1>
-<p><code>@Localhost54</code></p>
+<h1>MARPELSKIY</h1>
 
 <a href="https://un-sec.github.io" target="_blank">
   <img src="https://img.shields.io/static/v1?label=un-sec&message=team&color=00ff99&labelColor=black&style=for-the-badge" alt="un-sec team"/>
