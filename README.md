@@ -34,28 +34,35 @@ webSosint — Domain intelligence & OSINT automation.
 
 ### Security Impact (Closed Cases)
 
-**OpenVk** 10 vulnerabilities (8 CRITICAL) | Status: CLOSED  
-***
+<img src="https://img.shields.io/badge/OpenVk-white?style=flat&logo=vk&logoColor=0077FF">  
+10 vulnerabilities (8 CRITICAL) | Status: CLOSED  
+<br>
 
-**lainlife.ru** 19 vulnerabilities (Team Work) | Status: CLOSED  
-***
+<img src="https://img.shields.io/badge/lainlife.ru-white?style=flat&logo=nginx&logoColor=000000">  
+19 vulnerabilities (Team Work) | Status: CLOSED  
+<br>
 
-**mineblaze.net** 10 vulnerabilities in 60 minutes | Status: CLOSED  
-***
+<img src="https://img.shields.io/badge/mineblaze.net-white?style=flat&logo=minecraft&logoColor=8C6339">  
+10 vulnerabilities in 60 minutes | Status: CLOSED  
+<br>
 
-**tgpremka** 13 vulnerabilities in 34 minutes | Status: CLOSED  
-***
+<img src="https://img.shields.io/badge/tgpremka-white?style=flat&logo=telegram&logoColor=26A5E4">  
+13 vulnerabilities in 34 minutes | Status: CLOSED  
+<br>
 
-**musteryworld.net** 10 vulnerabilities in 40 minutes | Status: CLOSED  
-***
+<img src="https://img.shields.io/badge/musteryworld.net-white?style=flat&logo=webauthn&logoColor=000000">  
+10 vulnerabilities in 40 minutes | Status: CLOSED  
+<br>
 
-**dexland.org** 10 vulnerabilities in 60 minutes | Status: CLOSED  
+<img src="https://img.shields.io/badge/dexland.org-white?style=flat&logo=html5&logoColor=E34F26">  
+10 vulnerabilities in 60 minutes | Status: CLOSED  
 
 ---
 
 ### Collaborations
 
-s010vloon: Contributed 3 custom tools for knowledge base integration.
+<img src="https://img.shields.io/badge/s010vloon-white?style=flat&logo=github&logoColor=000000">  
+Contributed 3 custom tools for knowledge base integration.
 
 ---
 
