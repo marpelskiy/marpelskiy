@@ -24,18 +24,21 @@
 
 ---
 
-### <img src="https://img.icons8.com/ios/24/00FF00/linux.png"/> Systems
+### <img src="https://img.icons8.com/ios/24/00FF00/linux.png"/> OS & Systems
 
-<img src="https://img.shields.io/badge/Gentoo-FF1493?style=flat&logo=gentoo&logoColor=white">
 <img src="https://img.shields.io/badge/Arch-1793D1?style=flat&logo=archlinux&logoColor=white">
+<img src="https://img.shields.io/badge/Void-000000?style=flat&logo=voidlinux&logoColor=white">
+<img src="https://img.shields.io/badge/Gentoo-FF1493?style=flat&logo=gentoo&logoColor=white">
 <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white">
+<img src="https://img.shields.io/badge/Cachys-000000?style=flat&logo=archlinux&logoColor=white">
+<img src="https://img.shields.io/badge/Fedora-06418E?style=flat&logo=fedora&logoColor=white">
+<img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white">
 <img src="https://img.shields.io/badge/Tails-56347C?style=flat&logo=tails&logoColor=white">
 <img src="https://img.shields.io/badge/Whonix-000000?style=flat&logo=whonix&logoColor=white">
-<img src="https://img.shields.io/badge/Fedora-06418E?style=flat&logo=fedora&logoColor=white">
 
 ---
 
-### <img src="https://img.icons8.com/ios/24/00FF00/rocket.png"/> Featured Projects
+### <img src="https://img.icons8.com/ios/24/00FF00/rocket.png"/> Projects
 
 <div align="left" style="margin-left: 20%;">
   • <b>Answer Now</b> — AI-powered automated test solver.<br>
@@ -47,16 +50,16 @@
 
 ---
 
-### <img src="https://img.icons8.com/ios/24/00FF00/shield.png"/> Security Impact (Closed Cases)
+### <img src="https://img.icons8.com/ios/24/00FF00/shield.png"/> Closed Cases
 
 <div align="center">
   <table border="0">
+    <tr><td><b>OpenVk</b></td><td>10 vulns (8 CRIT) / 3h</td><td>CLOSED</td></tr>
     <tr><td><b>mineblaze.net</b></td><td>10 vulns / 1h</td><td>CLOSED</td></tr>
     <tr><td><b>tgpremka</b></td><td>13 vulns / 34m</td><td>CLOSED</td></tr>
     <tr><td><b>musteryworld.net</b></td><td>10 vulns / 40m</td><td>CLOSED</td></tr>
     <tr><td><b>dexland.org</b></td><td>10 vulns / 1h</td><td>CLOSED</td></tr>
     <tr><td><b>lainlife.ru</b></td><td>19 vulns / ~2h (team)</td><td>CLOSED</td></tr>
-    <tr><td><b>OpenVk</b></td><td>10 vulns (8 CRIT) / 3h</td><td>CLOSED</td></tr>
   </table>
 </div>
 
