@@ -11,7 +11,7 @@
 
 ---
 
-### Tech Stack
+### <img src="https://img.icons8.com/ios/24/FFFFFF/code.png"/> Tech Stack
 
 <img src="https://img.shields.io/badge/C++-white?style=flat&logo=cplusplus&logoColor=00599C">
 <img src="https://img.shields.io/badge/C-white?style=flat&logo=c&logoColor=A8B9CC">
@@ -22,7 +22,7 @@
 
 ---
 
-### Featured Projects
+### <img src="https://img.icons8.com/ios/24/FFFFFF/rocket.png"/> Featured Projects
 
 Answer Now — AI-powered automated test solver.  
 pySniff — Smart WiFi sniffer with TG integration.  
@@ -32,34 +32,34 @@ webSosint — Domain intelligence & OSINT automation.
 
 ---
 
-### Security Impact (Closed Cases)
+### <img src="https://img.icons8.com/ios/24/FFFFFF/shield.png"/> Security Impact (Closed Cases)
+
+**mineblaze.net** 10 vulnerabilities found in 1 hour | Status: CLOSED  
+<br>
+
+**tgpremka** 13 vulnerabilities found in 34 minutes | Status: CLOSED  
+<br>
+
+**musteryworld.net** 10 vulnerabilities found in 40 minutes | Status: CLOSED  
+<br>
+
+**dexland.org** 10 vulnerabilities found in 1 hour | Status: CLOSED  
+<br>
+
+**lainlife.ru** 19 vulnerabilities found in ~2 hours (team work) | Status: CLOSED  
+<br>
 
 **OpenVk** 10 vulnerabilities (8 CRITICAL) | Status: CLOSED  
-<br>
-
-**lainlife.ru** 19 vulnerabilities (Team Work) | Status: CLOSED  
-<br>
-
-**mineblaze.net** 10 vulnerabilities in 60 minutes | Status: CLOSED  
-<br>
-
-**tgpremka** 13 vulnerabilities in 34 minutes | Status: CLOSED  
-<br>
-
-**musteryworld.net** 10 vulnerabilities in 40 minutes | Status: CLOSED  
-<br>
-
-**dexland.org** 10 vulnerabilities in 60 minutes | Status: CLOSED  
 
 ---
 
-### Collaborations
+### <img src="https://img.icons8.com/ios/24/FFFFFF/handshake.png"/> Collaborations
 
 **s010vloon** Contributed 3 custom tools for knowledge base integration.
 
 ---
 
-### Contact
+### <img src="https://img.icons8.com/ios/24/FFFFFF/contact-card.png"/> Contact
 
 Telegram: @Localhost54  
 Email: marpelskiy98@cocaine.ninja
