@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/W0VXFH5J4h59f8v1uD/giphy.gif" width="100%">
-
 # marpelskiy
 ### Systems & Security Engineer
 
@@ -69,5 +67,9 @@ Email: marpelskiy98@cocaine.ninja
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=marpelskiy&style=flat&color=333333">
+
+<br><br>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9oZnQybzNmMHFoOGt3cnV2OW9iOGljZjkxNWxzN2w3ZW51N3ZyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QqwajnOjzDViSEM3Xu/giphy.gif" width="400px">
 
 </div>
