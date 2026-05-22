@@ -24,7 +24,7 @@ member of un-sec
 
 <img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="320"/>
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B)
@@ -54,9 +54,9 @@ Reverse Engineering
 
 ---
 
-# 🚀 Projects
+# Projects
 
-## 🧠 Answer Now
+## Answer Now
 AI-powered automated test solver.
 
 ```python
@@ -67,7 +67,7 @@ generate_answer()
 
 ---
 
-## 📡 pySniff
+## pySniff
 Smart WiFi sniffer with Telegram integration.
 
 ```bash
@@ -76,7 +76,7 @@ capture -> analyze -> telegram
 
 ---
 
-## 🔐 Crypton
+## Crypton
 AES-256-GCM + ChaCha20-Poly1305 toolkit.
 
 ```cpp
@@ -87,7 +87,7 @@ wipe_traces();
 
 ---
 
-## 🕶️ C0ck Obfuscator
+## C0ck Obfuscator
 Custom file obfuscation engine.
 
 ```txt
@@ -96,7 +96,7 @@ mutate -> encrypt -> obfuscate
 
 ---
 
-## 🌐 webSosint
+## webSosint
 Domain intelligence, Google dork generator & OSINT framework.
 
 ```bash
@@ -107,7 +107,7 @@ dork()
 
 ---
 
-# 🧷 Closed Cases
+# Closed Cases
 
 ```txt
 [ mineblaze.net ]
@@ -133,7 +133,7 @@ dork()
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -145,7 +145,7 @@ dork()
 
 ---
 
-# 📬 Contact
+# Contact
 
 ```bash
 Telegram : @Localhost54
