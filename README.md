@@ -13,23 +13,27 @@
 
 ### <img src="https://img.icons8.com/ios/24/00FF00/code.png"/> Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
-<img src="https://img.shields.io/badge/Assembly-6E4A7E?style=flat&logo=assemblyscript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microcontrollers-00979D?style=flat&logo=microchip&logoColor=white"/>
-<br>
-<b>C++ | C | Python | JavaScript | Assembly | Microcontrollers</b>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/ASM-6E4A7E?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCU-00979D?style=for-the-badge&logo=microchip&logoColor=white"/>
 
 ---
 
 ### <img src="https://img.icons8.com/ios/24/00FF00/linux.png"/> OS & Systems
 
-<img src="https://skillicons.dev/icons?i=arch,gentoo,debian,fedora,nixos" />
-<img src="https://img.shields.io/badge/Void-000000?style=flat&logo=voidlinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/CachyOS-000000?style=flat&logo=archlinux&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Tails-56347C?style=flat&logo=tails&logoColor=white"/>
-<img src="https://img.shields.io/badge/Whonix-000000?style=flat&logo=whonix&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gentoo-FF1493?style=for-the-badge&logo=gentoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fedora-06418E?style=for-the-badge&logo=fedora&logoColor=white"/>
+<img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white"/>
 <br>
-<b>Arch | Gentoo | Debian | Fedora | NixOS | Void | CachyOS | Tails | Whonix</b>
+<img src="https://img.shields.io/badge/Void-000000?style=for-the-badge&logo=voidlinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/CachyOS-000000?style=for-the-badge&logo=archlinux&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white"/>
+<img src="https://img.shields.io/badge/Whonix-000000?style=for-the-badge&logo=whonix&logoColor=white"/>
 
 ---
 
