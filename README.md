@@ -36,7 +36,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/voidlinux/voidlinux-original.svg" width="20" height="20" valign="middle"/> <b>Void</b> &nbsp;|&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" width="20" height="20" valign="middle"/> <b>NixOS</b> &nbsp;|&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="20" height="20" valign="middle"/> <b>Debian</b> &nbsp;|&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="20" height="20" valign="middle"/> <b>Fedora</b> &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="20" height="20" valign="middle"/> <b>Fedora</b>
+  <br><br>
+  <img src="https://api.iconify.design/ph:shield-shred-bold.svg?color=%2300ff99" width="20" height="20" valign="middle"/>
   <img src="https://img.shields.io/badge/-Whonix-3A81B5?style=flat&logo=linux&logoColor=white" height="16" valign="middle"/> <b>Whonix</b> &nbsp;|&nbsp;
   <img src="https://img.shields.io/badge/-Tails-56347C?style=flat&logo=linux&logoColor=white" height="16" valign="middle"/> <b>Tails</b>
 </p>
