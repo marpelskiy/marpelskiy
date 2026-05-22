@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 # marpelskiy
 ### Systems & Security Engineer
 
@@ -15,26 +13,19 @@
 
 ### <img src="https://img.icons8.com/ios/24/00FF00/code.png"/> Tech Stack
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Assembly-6E4A7E?style=flat&logo=assemblyscript&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Microcontrollers-00979D?style=flat&logo=microchip&logoColor=white">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript&perline=6">
+<img src="https://img.shields.io/badge/Assembly-6E4A7E?style=for-the-badge&logo=assemblyscript&logoColor=white">
+<img src="https://img.shields.io/badge/Microcontrollers-00979D?style=for-the-badge&logo=microchip&logoColor=white">
 
 ---
 
 ### <img src="https://img.icons8.com/ios/24/00FF00/linux.png"/> OS & Systems
 
-<img src="https://img.shields.io/badge/Arch-1793D1?style=flat&logo=archlinux&logoColor=white">
-<img src="https://img.shields.io/badge/Void-000000?style=flat&logo=voidlinux&logoColor=white">
-<img src="https://img.shields.io/badge/Gentoo-FF1493?style=flat&logo=gentoo&logoColor=white">
-<img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white">
-<img src="https://img.shields.io/badge/Cachys-000000?style=flat&logo=archlinux&logoColor=white">
-<img src="https://img.shields.io/badge/Fedora-06418E?style=flat&logo=fedora&logoColor=white">
-<img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white">
-<img src="https://img.shields.io/badge/Tails-56347C?style=flat&logo=tails&logoColor=white">
-<img src="https://img.shields.io/badge/Whonix-000000?style=flat&logo=whonix&logoColor=white">
+<img src="https://skillicons.dev/icons?i=arch,gentoo,debian,fedora,nixos&perline=6">
+<img src="https://img.shields.io/badge/Void-000000?style=for-the-badge&logo=voidlinux&logoColor=white">
+<img src="https://img.shields.io/badge/CachyOS-000000?style=for-the-badge&logo=archlinux&logoColor=00FF00">
+<img src="https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white">
+<img src="https://img.shields.io/badge/Whonix-000000?style=for-the-badge&logo=whonix&logoColor=white">
 
 ---
 
@@ -79,6 +70,8 @@ Telegram: [@Localhost54](https://t.me/Localhost54) | Email: [marpelskiy98@cocain
 
 <img src="https://komarev.com/ghpvc/?username=marpelskiy&style=flat-square&color=00FF00">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJkaGF6ZHRuM3Q5Zm41ajdzaGhjd2l5dGk0NTljaGh6bzg5ZXV0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wtEzcKIMOEEDe/giphy.gif" width="100%">
+<br><br>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9qNHJ6dWplb2V0Nm5hMzg4NHA0dGIzZXM0ODg4bjFpbDl2dmE5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wsLkjgj5Rsehq/giphy.gif" width="400px">
 
 </div>
