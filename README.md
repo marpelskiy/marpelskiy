@@ -125,7 +125,8 @@
 <h3><img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%238b949e" width="20" height="20" valign="middle"/> [ <code>openvk.org</code> ]</h3>
 
 <b>→ 9 vulnerabilities discovered in 4 hours</b><br>
-<b>→ 7 classified as <span style="color:#ff3b3b;">CRITICAL</span></b><br>
+<b>→ 8 classified as <span style="color:#ff3b3b;">CRITICAL</span></b><br>
+<b>→ coordinated <span style="color:#00ff99;">team effort</span></b><br>
 
 <b>status: <span style="color:#00ff99;">CLOSED</span></b>
 
