@@ -1,14 +1,46 @@
 <div align="center">
 
-<h1>MARPELSKIY</h1>
+<!-- INTERACTIVE TERMINAL HEADER -->
+<div style="background: #0d1117; border: 1px solid #30363d; border-radius: 6px; max-width: 800px; text-align: left; box-shadow: 0 4px 25px rgba(0, 255, 153, 0.15);">
+  
+  <!-- Terminal Header Bar -->
+  <div style="background: #161b22; padding: 10px; border-bottom: 1px solid #30363d; border-radius: 6px 6px 0 0; display: flex; align-items: center; justify-content: space-between;">
+    <div style="display: flex; gap: 6px;">
+      <span style="width: 12px; height: 12px; background: #ff5f56; border-radius: 50%; display: inline-block;"></span>
+      <span style="width: 12px; height: 12px; background: #ffbd2e; border-radius: 50%; display: inline-block;"></span>
+      <span style="width: 12px; height: 12px; background: #27c93f; border-radius: 50%; display: inline-block;"></span>
+    </div>
+    <span style="color: #8b949e; font-family: monospace; font-size: 12px;">marpel@un-sec:~</span>
+    <div style="width: 42px;"></div>
+  </div>
+  
+  <!-- Terminal Body -->
+  <div style="padding: 20px; font-family: 'JetBrains Mono', monospace; line-height: 1.6;">
+    
+    <!-- Dynamic Visitor Greeting -->
+    <span style="color: #00ff99;">$</span> <span style="color: #8b949e;">./greet_visitor.sh</span><br>
+    <div style="margin: 5px 0 15px 0;">
+      <img src="https://visit-readme.vercel.app/api/readme?name=Visitor" alt="Dynamic User Detection" />
+    </div>
+
+    <!-- Identity -->
+    <span style="color: #00ff99;">$</span> <span style="color: #c9d1d9;">whoami</span><br>
+    <h1 style="margin: 5px 0 20px 0; color: #ffffff; border: none; font-size: 36px; font-weight: 800; letter-spacing: 1px;">MARPELSKIY</h1>
+    
+    <!-- Typing Capabilities -->
+    <span style="color: #00ff99;">$</span> <span style="color: #c9d1d9;">cat capabilities.txt</span><br>
+    <div style="margin-top: 5px;">
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=8B949E&width=750&lines=SYSTEMS+%26+SECURITY+ENGINEER;PENTEST+%7C+OSINT+%7C+REVERSE+ENGINEERING;NETWORK+EXPLOITATION+SPECIALIST;UN-SEC+MEMBER" />
+    </div>
+
+  </div>
+</div>
+
+<br>
 
 <a href="https://un-sec.github.io" target="_blank">
   <img src="https://img.shields.io/static/v1?label=un-sec&message=team&color=00ff99&labelColor=black&style=for-the-badge" alt="un-sec team"/>
 </a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=SYSTEMS+%26+SECURITY+ENGINEER;PENTEST+%7C+OSINT+%7C+REVERSE+ENGINEERING;NETWORK+EXPLOITATION+SPECIALIST;UN-SEC+MEMBER" />
 
 </div>
 
@@ -94,93 +126,93 @@
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 14px; justify-content: center; margin-top: 20px;">
 
   <!-- CASE 1 -->
-  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
-    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
+  <div style="background: #0d1117; border: 1px solid #00ff99; border-radius: 8px; padding: 16px; width: 280px; text-align: left; box-shadow: inset 0 0 10px rgba(0, 255, 153, 0.02), 0 0 15px rgba(0, 255, 153, 0.08);">
+    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 8px;">
       <img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
       <span>mineblaze.net</span>
     </h4>
-    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
-      • <b>10 vulnerabilities</b> found in 1 hour<br>
-      • <span style="color: #ff7b72; font-weight: bold;">8 classified as CRITICAL</span><br>
-      • Joint operation with <i>Agent231-src</i>
+    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9; font-family: 'JetBrains Mono', monospace;">
+      • <b>10 vulnerabilities</b> found <br>
+      • <span style="color: #ff7b72; font-weight: bold;">8 CRITICAL LEVEL</span><br>
+      • Team op with <i>Agent231-src</i>
     </p>
   </div>
 
   <!-- CASE 2 -->
-  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
-    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
+  <div style="background: #0d1117; border: 1px solid #00ff99; border-radius: 8px; padding: 16px; width: 280px; text-align: left; box-shadow: inset 0 0 10px rgba(0, 255, 153, 0.02), 0 0 15px rgba(0, 255, 153, 0.08);">
+    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 8px;">
       <img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
       <span>tgpremka</span>
     </h4>
-    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
-      • <b>13 vulnerabilities</b> discovered<br>
-      • Execution time: 34 minutes<br>
+    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9; font-family: 'JetBrains Mono', monospace;">
+      • <b>13 vulnerabilities</b> verified<br>
+      • Analysis time: 34 mins<br>
       • Status: <span style="color: #58a6ff; font-weight: bold;">SOLO AUDIT</span>
     </p>
   </div>
 
   <!-- CASE 3 -->
-  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
-    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
+  <div style="background: #0d1117; border: 1px solid #00ff99; border-radius: 8px; padding: 16px; width: 280px; text-align: left; box-shadow: inset 0 0 10px rgba(0, 255, 153, 0.02), 0 0 15px rgba(0, 255, 153, 0.08);">
+    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 8px;">
       <img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
       <span>musteryworld.net</span>
     </h4>
-    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
-      • <b>10 vulnerabilities</b> discovered<br>
-      • Execution time: 40 minutes<br>
+    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9; font-family: 'JetBrains Mono', monospace;">
+      • <b>10 vulnerabilities</b> found<br>
+      • Analysis time: 40 mins<br>
       • Status: <span style="color: #58a6ff; font-weight: bold;">SOLO AUDIT</span>
     </p>
   </div>
 
   <!-- CASE 4 -->
-  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
-    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
+  <div style="background: #0d1117; border: 1px solid #00ff99; border-radius: 8px; padding: 16px; width: 280px; text-align: left; box-shadow: inset 0 0 10px rgba(0, 255, 153, 0.02), 0 0 15px rgba(0, 255, 153, 0.08);">
+    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 8px;">
       <img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
       <span>dexland.org</span>
     </h4>
-    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
-      • <b>10 vulnerabilities</b> discovered<br>
-      • Execution time: 1 hour<br>
+    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9; font-family: 'JetBrains Mono', monospace;">
+      • <b>10 vulnerabilities</b> extracted<br>
+      • Analysis time: 1 hour<br>
       • Status: <span style="color: #58a6ff; font-weight: bold;">SOLO AUDIT</span>
     </p>
   </div>
 
   <!-- CASE 5 -->
-  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
-    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
+  <div style="background: #0d1117; border: 1px solid #00ff99; border-radius: 8px; padding: 16px; width: 280px; text-align: left; box-shadow: inset 0 0 10px rgba(0, 255, 153, 0.02), 0 0 15px rgba(0, 255, 153, 0.08);">
+    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 8px;">
       <img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
       <span>lainlife.ru</span>
     </h4>
-    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
-      • <b>19 vulnerabilities</b> in ~2 hours<br>
-      • <span style="color: #ff7b72; font-weight: bold;">7 classified as CRITICAL</span><br>
-      • Coordinated <i>un-sec</i> team effort
+    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9; font-family: 'JetBrains Mono', monospace;">
+      • <b>19 vulnerabilities</b> found<br>
+      • <span style="color: #ff7b72; font-weight: bold;">7 CRITICAL LEVEL</span><br>
+      • Coordinated <i>un-sec</i> deployment
     </p>
   </div>
 
   <!-- CASE 6 -->
-  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
-    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
+  <div style="background: #0d1117; border: 1px solid #00ff99; border-radius: 8px; padding: 16px; width: 280px; text-align: left; box-shadow: inset 0 0 10px rgba(0, 255, 153, 0.02), 0 0 15px rgba(0, 255, 153, 0.08);">
+    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 8px;">
       <img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
       <span>openvk.org</span>
     </h4>
-    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
-      • <b>9 vulnerabilities</b> found in 4 hours<br>
-      • <span style="color: #ff7b72; font-weight: bold;">8 classified as CRITICAL</span><br>
-      • Coordinated <i>un-sec</i> team effort
+    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9; font-family: 'JetBrains Mono', monospace;">
+      • <b>9 vulnerabilities</b> discovered<br>
+      • <span style="color: #ff7b72; font-weight: bold;">8 CRITICAL LEVEL</span><br>
+      • Coordinated <i>un-sec</i> deployment
     </p>
   </div>
 
   <!-- CASE 7 -->
-  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
-    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
+  <div style="background: #0d1117; border: 1px solid #00ff99; border-radius: 8px; padding: 16px; width: 280px; text-align: left; box-shadow: inset 0 0 10px rgba(0, 255, 153, 0.02), 0 0 15px rgba(0, 255, 153, 0.08);">
+    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 8px;">
       <img src="https://api.iconify.design/ph:terminal-window-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
       <span>s010vloon</span>
     </h4>
-    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
-      • <b>Strategic Cooperation</b><br>
-      • Provided 3 custom tools to KB<br>
-      • Integration into internal database
+    <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9; font-family: 'JetBrains Mono', monospace;">
+      • <b>Strategic Intelligence</b><br>
+      • Provided 3 custom KB tools<br>
+      • Internal database integration
     </p>
   </div>
 
