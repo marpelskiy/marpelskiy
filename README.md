@@ -96,7 +96,7 @@
 <b>→ 10 vulnerabilities discovered in 1 hour</b><br>
 <b>status: <span style="color:#00ff99;">CLOSED</span></b>
 <b>→ 8 classified as <span style="color:#ff3b3b;">CRITICAL</span></b><br>
-<b>→ <span style="color:#00ff99;">team work</span></b><br>
+<b>→ <span style="color:#00ff99;">team work (with Agent231-src)</span></b><br>
 
 <br><br>
 
@@ -130,7 +130,7 @@
 
 <b>→ 9 vulnerabilities discovered in 4 hours</b><br>
 <b>→ 8 classified as <span style="color:#ff3b3b;">CRITICAL</span></b><br>
-<b>→ <span style="color:#00ff99;">team work(un-sec)</span></b><br>
+<b>→ <span style="color:#00ff99;">team work (un-sec)</span></b><br>
 
 <b>status: <span style="color:#00ff99;">CLOSED</span></b>
 
