@@ -93,71 +93,92 @@
 
   <!-- CASE 1 -->
   <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
-    <h4 style="margin: 0 0 8px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace;">🎯 mineblaze.net</h4>
+    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
+      <img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
+      <span>mineblaze.net</span>
+    </h4>
     <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
-      • <b>10 уязвимостей</b> за 1 час<br>
-      • <span style="color: #ff7b72;">8 критических (CRITICAL)</span><br>
-      • В команде с <i>Agent231-src</i>
+      • <b>10 vulnerabilities</b> found in 1 hour<br>
+      • <span style="color: #ff7b72; font-weight: bold;">8 classified as CRITICAL</span><br>
+      • Joint operation with <i>Agent231-src</i>
     </p>
   </div>
 
   <!-- CASE 2 -->
   <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
-    <h4 style="margin: 0 0 8px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace;">🎯 tgpremka</h4>
+    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
+      <img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
+      <span>tgpremka</span>
+    </h4>
     <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
-      • <b>13 уязвимостей</b> обнаружено<br>
-      • Время работы: 34 минуты<br>
-      • Статус: <span style="color: #58a6ff;">SOLO AUDIT</span>
+      • <b>13 vulnerabilities</b> discovered<br>
+      • Execution time: 34 minutes<br>
+      • Status: <span style="color: #58a6ff; font-weight: bold;">SOLO AUDIT</span>
     </p>
   </div>
 
   <!-- CASE 3 -->
   <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
-    <h4 style="margin: 0 0 8px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace;">🎯 musteryworld.net</h4>
+    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
+      <img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
+      <span>musteryworld.net</span>
+    </h4>
     <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
-      • <b>10 уязвимостей</b> обнаружено<br>
-      • Время работы: 40 минут<br>
-      • Статус: <span style="color: #58a6ff;">SOLO AUDIT</span>
+      • <b>10 vulnerabilities</b> discovered<br>
+      • Execution time: 40 minutes<br>
+      • Status: <span style="color: #58a6ff; font-weight: bold;">SOLO AUDIT</span>
     </p>
   </div>
 
   <!-- CASE 4 -->
   <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
-    <h4 style="margin: 0 0 8px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace;">🎯 dexland.org</h4>
+    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
+      <img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
+      <span>dexland.org</span>
+    </h4>
     <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
-      • <b>10 уязвимостей</b> обнаружено<br>
-      • Время работы: 1 час<br>
-      • Статус: <span style="color: #58a6ff;">SOLO AUDIT</span>
+      • <b>10 vulnerabilities</b> discovered<br>
+      • Execution time: 1 hour<br>
+      • Status: <span style="color: #58a6ff; font-weight: bold;">SOLO AUDIT</span>
     </p>
   </div>
 
   <!-- CASE 5 -->
   <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
-    <h4 style="margin: 0 0 8px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace;">🎯 lainlife.ru</h4>
+    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
+      <img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
+      <span>lainlife.ru</span>
+    </h4>
     <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
-      • <b>19 уязвимостей</b> за ~2 часа<br>
-      • <span style="color: #ff7b72;">7 критических (CRITICAL)</span><br>
-      • Работа команды <i>un-sec</i>
+      • <b>19 vulnerabilities</b> in ~2 hours<br>
+      • <span style="color: #ff7b72; font-weight: bold;">7 classified as CRITICAL</span><br>
+      • Coordinated <i>un-sec</i> team effort
     </p>
   </div>
 
   <!-- CASE 6 -->
   <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
-    <h4 style="margin: 0 0 8px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace;">🎯 openvk.org</h4>
+    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
+      <img src="https://api.iconify.design/ph:crosshair-simple-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
+      <span>openvk.org</span>
+    </h4>
     <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
-      • <b>9 уязвимостей</b> за 4 часа<br>
-      • <span style="color: #ff7b72;">8 критических (CRITICAL)</span><br>
-      • Работа команды <i>un-sec</i>
+      • <b>9 vulnerabilities</b> found in 4 hours<br>
+      • <span style="color: #ff7b72; font-weight: bold;">8 classified as CRITICAL</span><br>
+      • Coordinated <i>un-sec</i> team effort
     </p>
   </div>
 
   <!-- CASE 7 -->
   <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; width: 280px; text-align: left;">
-    <h4 style="margin: 0 0 8px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace;">🧠 s010vloon</h4>
+    <h4 style="margin: 0 0 10px 0; color: #00ff99; font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 6px;">
+      <img src="https://api.iconify.design/ph:terminal-window-bold.svg?color=%2300ff99" width="18" height="18" valign="middle"/>
+      <span>s010vloon</span>
+    </h4>
     <p style="margin: 0; font-size: 13px; line-height: 1.5; color: #c9d1d9;">
-      • <b>Сотрудничество</b><br>
-      • Предоставлено 3 софта в КБ<br>
-      • Интеграция в общую базу данных
+      • <b>Strategic Cooperation</b><br>
+      • Provided 3 custom tools to KB<br>
+      • Integration into internal database
     </p>
   </div>
 
