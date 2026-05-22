@@ -103,7 +103,6 @@ Email: marpelskiy98@cocaine.ninja
 
 <div align="center">
 
-## 💻 SYSTEM TERMINAL MONITOR
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B6eXl5b2h4b2p0b3J2d2V2dGJmZ2Z1Z2Z6dG5mY3V5dWJtZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80%"/>
 
