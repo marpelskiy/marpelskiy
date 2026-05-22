@@ -3,7 +3,7 @@
 # marpelskiy
 
 <a href="https://un-sec.github.io" target="_blank">
-<img src="https://img.shields.io/badge/un--sec-team-00ff99?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/un--sec--team-00ff99?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=black"/>
 </a>
 
 <br><br>
@@ -131,7 +131,7 @@
 <h3><img src="https://api.iconify.design/ph:globe-hemisphere-west-bold.svg?color=%238b949e" width="22" height="22" valign="middle"/> Infrastructure Website</h3>
 
 <a href="https://un-sec.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/un--sec.github.io-00ff99?style=for-the-badge&logo=gitbook&logoColor=black" alt="Team Website"/>
+  <img src="https://img.shields.io/badge/LINK-%2300ff99?style=for-the-badge&logo=gitbook&logoColor=00ff99&label=un--sec.github.io&labelColor=black" alt="Team Website"/>
 </a>
 
 </div>
