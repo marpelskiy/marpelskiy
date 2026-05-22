@@ -59,27 +59,27 @@
 
 <div align="center">
 
-<h3>Answer Now</h3>
+<h3><code>Answer Now</code></h3>
 <b>AI-powered automated test solver with automation logic and adaptive response generation.</b>
 
 <br><br>
 
-<h3>pySniff</h3>
+<h3><code>pySniff</code></h3>
 <b>Advanced WiFi packet sniffer with Telegram-based alerting and traffic analysis.</b>
 
 <br><br>
 
-<h3>Cryptom</h3>
+<h3><code>Cryptom</code></h3>
 <b>Cryptographic toolkit implementing AES-256-GCM and ChaCha20-Poly1305 secure encryption layers.</b>
 
 <br><br>
 
-<h3>C0ck Obfuscator</h3>
+<h3><code>C0ck Obfuscator</code></h3>
 <b>File obfuscation engine designed for binary transformation and signature evasion research.</b>
 
 <br><br>
 
-<h3>webSosint</h3>
+<h3><code>webSosint</code></h3>
 <b>OSINT and domain intelligence framework with integrated Google dorking automation system.</b>
 
 </div>
@@ -90,31 +90,31 @@
 
 <div align="center">
 
-<h3>[ mineblaze.net ]</h3>
+<h3>[ <code>mineblaze.net</code> ]</h3>
 <b>→ 10 vulnerabilities discovered in 1 hour</b><br>
 <b>status: CLOSED</b>
 
 <br><br>
 
-<h3>[ tgpremka ]</h3>
+<h3>[ <code>tgpremka</code> ]</h3>
 <b>→ 13 vulnerabilities discovered in 34 minutes</b><br>
 <b>status: CLOSED</b>
 
 <br><br>
 
-<h3>[ musteryworld.net ]</h3>
+<h3>[ <code>musteryworld.net</code> ]</h3>
 <b>→ 10 vulnerabilities discovered in 40 minutes</b><br>
 <b>status: CLOSED</b>
 
 <br><br>
 
-<h3>[ dexland.org ]</h3>
+<h3>[ <code>dexland.org</code> ]</h3>
 <b>→ 10 vulnerabilities discovered in 1 hour</b><br>
 <b>status: CLOSED</b>
 
 <br><br>
 
-<h3>[ lainlife.ru ]</h3>
+<h3>[ <code>lainlife.ru</code> ]</h3>
 <b>→ 19 vulnerabilities discovered in ~2 hours</b><br>
 <b>status: CLOSED</b>
 
