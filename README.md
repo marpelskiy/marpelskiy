@@ -39,7 +39,8 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
 ![Void](https://img.shields.io/badge/Void_Linux-333333?style=flat-square&logo=voidlinux&logoColor=white)
 ![CachyOS](https://img.shields.io/badge/CachyOS-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Tails](https://img.shields.io/badge/Tails-56347C?style=flat-square&logo=tails&logoColor=white)
-![Whonix](https://img.shields.io/badge/Whonix-333333?style=flat-square&logo=whonix&logoColor=white)
+<img src="https://img.shields.io/badge/Whonix-0f172a?style=for-the-badge&logo=torproject&logoColor=white"/>
+
 
 ---
 
