@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://www.donationalerts.com/r/marpelskiy">
-  <img src="https://img.shields.io/badge/ACCESS%20LEVEL-DONATE%20UNLOCK-4A9EFF?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🚨%20SUPPORT%20THE%20PROJECT-DONATE%20NOW-ff0033?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=0d1117" />
 </a>
 
 </div>
