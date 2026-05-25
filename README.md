@@ -20,12 +20,14 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
 
 ## Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![ASM](https://img.shields.io/badge/ASM-6E4A7E?style=flat-square&logo=assemblyscript&logoColor=white)
-![MCU](https://img.shields.io/badge/MCU-00979D?style=flat-square&logo=microchip&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/ASM-0f172a?style=for-the-badge&logo=assemblyscript&logoColor=6E4A7E"/>
+  <img src="https://img.shields.io/badge/MCU-0f172a?style=for-the-badge&logo=microchip&logoColor=00979D"/>
+</p>
 
 ---
 
