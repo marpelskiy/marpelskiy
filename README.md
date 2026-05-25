@@ -1,92 +1,100 @@
-<div align="center">
+## TECH ARSENAL
 
-# marpelskiy
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00d1ff"/>
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ffd43b"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
+  <img src="https://img.shields.io/badge/Assembly-111111?style=for-the-badge&logo=assemblyscript&logoColor=9b59b6"/>
+  <img src="https://img.shields.io/badge/MCU-111111?style=for-the-badge&logo=microchip&logoColor=00d1ff"/>
+</p>
 
-<a href="https://www.donationalerts.com/r/marpelskiy">
-  <img src="https://img.shields.io/badge/DONATE-SUPPORT%20PROJECT-ff0033?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=000000" height="50"/>
-</a>
+---
+
+## SYSTEMS & ENVIRONMENTS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-0f172a?style=for-the-badge&logo=archlinux&logoColor=1793D1"/>
+  <img src="https://img.shields.io/badge/Gentoo-0f172a?style=for-the-badge&logo=gentoo&logoColor=7c3aed"/>
+  <img src="https://img.shields.io/badge/Debian-0f172a?style=for-the-badge&logo=debian&logoColor=E95420"/>
+  <img src="https://img.shields.io/badge/Fedora-0f172a?style=for-the-badge&logo=fedora&logoColor=3c6df0"/>
+  <img src="https://img.shields.io/badge/NixOS-0f172a?style=for-the-badge&logo=nixos&logoColor=5277C3"/>
+  <img src="https://img.shields.io/badge/Void_Linux-0f172a?style=for-the-badge&logo=voidlinux&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Tails-0f172a?style=for-the-badge&logo=tails&logoColor=56347C"/>
+  <img src="https://img.shields.io/badge/Whonix-0f172a?style=for-the-badge&logo=torproject&logoColor=white"/>
+</p>
+
+---
+
+## PROJECTS
+
+**Answer Now**  
+AI-driven automation engine for test solving and reasoning workflows.
 
 <br/>
 
-Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2800&pause=700&color=4A9EFF&center=true&width=520&lines=OSINT+Specialist;Reverse+Engineering;Network+Security;Binary+Analysis;Embedded+Systems" />
-
-</div>
-
----
-
-## Tech Stack
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-6E4A7E?style=flat-square&logo=assemblyscript&logoColor=white)
-![MCU](https://img.shields.io/badge/MCU-00979D?style=flat-square&logo=microchip&logoColor=white)
-
----
-
-## Operating Systems
-
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-06418E?style=flat-square&logo=fedora&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
-![Void Linux](https://img.shields.io/badge/Void_Linux-333333?style=flat-square&logo=voidlinux&logoColor=white)
-![CachyOS](https://img.shields.io/badge/CachyOS-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Tails](https://img.shields.io/badge/Tails-56347C?style=flat-square&logo=tails&logoColor=white)
-![Whonix](https://img.shields.io/badge/Whonix-333333?style=flat-square&logo=whonix&logoColor=white)
-
----
-
-## Projects
-
-| Name | Description |
-|------|-------------|
-| Answer Now | Automated test solving system powered by AI |
-| pySniff | WiFi traffic analyzer with Telegram integration |
-| Crypton | AES-256-GCM / ChaCha20-Poly1305 crypto toolkit |
-| Obfuscator | Custom binary/file obfuscation engine |
-| webSosint | OSINT automation framework for domain intelligence |
-| NetMorph | Privacy & identity isolation lab with Tor integration |
-
----
-
-## Security Research
-
-| Target | Findings | Time | Status |
-|--------|----------|------|--------|
-| OpenVk | 10 (8 critical) | 3h | closed |
-| mineblaze.net | 10 | 1h | closed |
-| tgpremka | 13 | 34m | closed |
-| musteryworld.net | 10 | 40m | closed |
-| dexland.org | 10 | 1h | closed |
-| lainlife.ru | 19 | ~2h | closed |
-
----
-
-## Collaborations
-
-**s010vloon**  
-Custom tooling for knowledge base and automation systems.
-
----
-
-## Contact
-
-[Telegram](https://t.me/Localhost54)  
-Email: marpelskiy98@cocaine.ninja
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=marpelskiy&style=flat-square&color=grey" />
+**pySniff**  
+WiFi intelligence tool with Telegram-based live monitoring.
 
 <br/>
 
-<img src="https://media.giphy.com/media/wsLkjgj5Rsehq/giphy.gif" width="360"/>
+**Crypton**  
+High-performance encryption toolkit (AES-256-GCM / ChaCha20-Poly1305).
+
+<br/>
+
+**Obfuscator Engine**  
+Binary and file-level obfuscation system for research purposes.
+
+<br/>
+
+**webSosint**  
+OSINT automation framework for domain and infrastructure analysis.
+
+<br/>
+
+**NetMorph**  
+Identity isolation lab: fingerprint evasion, Tor routing, dynamic profiles.
+
+---
+
+## SECURITY RESEARCH
+
+- OpenVk → critical vulnerabilities discovered  
+- mineblaze.net → infrastructure analysis completed  
+- tgpremka → fast-cycle vulnerability mapping  
+- musteryworld.net → security audit  
+- dexland.org → penetration testing  
+- lainlife.ru → team-based deep analysis  
+
+---
+
+## COLLABORATIONS
+
+**s010vloon**
+
+Delivered custom tooling for knowledge systems, automation pipelines, and internal security research workflows.
+
+---
+
+## CONTACT
+
+<p align="center">
+  <a href="https://t.me/Localhost54">
+    <img src="https://img.shields.io/badge/TELEGRAM-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:marpelskiy98@cocaine.ninja">
+    <img src="https://img.shields.io/badge/EMAIL-Secure_Channel-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=marpelskiy&style=for-the-badge&color=0ea5e9"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/wsLkjgj5Rsehq/giphy.gif" width="420"/>
 
 </div>
