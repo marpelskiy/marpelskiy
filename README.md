@@ -2,6 +2,14 @@
 
 # marpelskiy
 
+<div align="center">
+
+<a href="https://www.donationalerts.com/r/marpelskiy">
+  <img src="https://img.shields.io/badge/ACCESS%20LEVEL-DONATE%20UNLOCK-4A9EFF?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=0d1117" />
+</a>
+
+</div>
+
 Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=600&color=4A9EFF&center=true&width=500&lines=OSINT+Specialist;Reverse+Engineering;Network+Security;Binary+Obfuscation;Embedded+Systems)](https://git.io/typing-svg)
