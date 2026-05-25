@@ -31,15 +31,16 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
 
 ## OS & Systems
 
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-06418E?style=flat-square&logo=fedora&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
-![Void](https://img.shields.io/badge/Void_Linux-333333?style=flat-square&logo=voidlinux&logoColor=white)
-![CachyOS](https://img.shields.io/badge/CachyOS-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Tails](https://img.shields.io/badge/Tails-56347C?style=flat-square&logo=tails&logoColor=white)
-<img src="https://img.shields.io/badge/Whonix-0f172a?style=for-the-badge&logo=torproject&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-0f172a?style=for-the-badge&logo=archlinux&logoColor=1793D1"/>
+  <img src="https://img.shields.io/badge/Gentoo-0f172a?style=for-the-badge&logo=gentoo&logoColor=7c3aed"/>
+  <img src="https://img.shields.io/badge/Debian-0f172a?style=for-the-badge&logo=debian&logoColor=E95420"/>
+  <img src="https://img.shields.io/badge/Fedora-0f172a?style=for-the-badge&logo=fedora&logoColor=3c6df0"/>
+  <img src="https://img.shields.io/badge/NixOS-0f172a?style=for-the-badge&logo=nixos&logoColor=5277C3"/>
+  <img src="https://img.shields.io/badge/Void_Linux-0f172a?style=for-the-badge&logo=voidlinux&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Tails-0f172a?style=for-the-badge&logo=tails&logoColor=56347C"/>
+  <img src="https://img.shields.io/badge/Whonix-0f172a?style=for-the-badge&logo=torproject&logoColor=white"/>
+</p>
 
 
 ---
