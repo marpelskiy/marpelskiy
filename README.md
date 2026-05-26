@@ -65,14 +65,13 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
 ## Security Research
 | Target | Vulnerabilities | Time | Status |
 |---|---|---|---|
-| [![OpenVk](https://img.shields.io/badge/OpenVk-Visit-blue?style=for-the-badge)](https://openvk.org) | 10 (8 critical) | 3h (team) | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
-| [!mineblaze.net](https://img.shields.io/badge/MineBlaze-Visit-blue?style=for-the-badge)](https://mineblaze.net) | 10 | 1h | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
-| tgpremka | 13 | 34m | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
-| [!musteryworld.net](https://img.shields.io/badge/MusteryWorld-Visit-blue?style=for-the-badge)](https://mustery.world) | 10 | 40m | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
-| [!dexland.org](https://img.shields.io/badge/Dexland-Visit-blue?style=for-the-badge)](https://dexland.org) | 10 | 1h | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
-| [!lainlife.ru](https://img.shields.io/badge/LainLife-Visit-blue?style=for-the-badge)](https://lainlife.ru) | 19 | ~2h (team) | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
-| [!rpmserver.com](https://img.shields.io/badge/rmpserver-Visit-blue?style=for-the-badge)](https://rmpserver.com) | 9 (8 critical) | ~4h (team) | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
-
+| [![OpenVk](https://img.shields.io/badge/OpenVk-Site-blue?style=flat-square)](https://openvk.su) | 10 (8 critical) | 3h (team) | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
+| [![mineblaze](https://img.shields.io/badge/mineblaze.net-Site-blue?style=flat-square)](https://mineblaze.net) | 10 | 1h | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
+| [![tgpremka](https://img.shields.io/badge/tgpremka-Site-blue?style=flat-square)](https://tgpremka.example) | 13 | 34m | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
+| [![musteryworld](https://img.shields.io/badge/musteryworld.net-Site-blue?style=flat-square)](https://musteryworld.net) | 10 | 40m | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
+| [![dexland](https://img.shields.io/badge/dexland.org-Site-blue?style=flat-square)](https://dexland.org) | 10 | 1h | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
+| [![lainlife](https://img.shields.io/badge/lainlife.ru-Site-blue?style=flat-square)](https://lainlife.ru) | 19 | ~2h (team) | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
+| [![rpmserver](https://img.shields.io/badge/rpmserver.com-Site-blue?style=flat-square)](https://rpmserver.com) | 9 (8 critical) | ~4h (team) | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
 ---
 
 ## Collaborations
