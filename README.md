@@ -66,12 +66,13 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
 
 | Target | Vulnerabilities | Time | Status |
 |---|---|---|---|
-| OpenVk | 10 (8 critical) | 3h | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
+| OpenVk | 10 (8 critical) (team) | 3h | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
 | mineblaze.net | 10 | 1h | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
 | tgpremka | 13 | 34m | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
 | musteryworld.net | 10 | 40m | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
 | dexland.org | 10 | 1h | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
 | lainlife.ru | 19 | ~2h (team) | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
+| rpmserver.com | 9 (8 critical) (team) | ~2h (team) | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
 
 ---
 
