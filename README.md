@@ -63,6 +63,9 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
 ---
 
 ## Security Research
+| Target | Vulnerabilities | Time | Status |
+|---|---|---|---|
+| [![OpenVk](https://img.shields.io/badge/OpenVk-Visit-blue?style=for-the-badge)](https://openvk.su) | 10 (8 critical) | 3h (team) | ![closed](https://img.shields.io/badge/-closed-red?style=flat-square) |
 
 | Target | Vulnerabilities | Time | Status |
 |---|---|---|---|
