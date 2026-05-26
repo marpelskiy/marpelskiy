@@ -90,18 +90,14 @@ s010vloon — Contributed custom tools for knowledge base integration.
 <div align="center">
 
 <img 
-src="https://img.shields.io/badge/PROFILE-VIEWS-161b22?style=for-the-badge&logo=github&logoColor=white"
-/>
-
-<img 
-src="https://komarev.com/ghpvc/?username=marpelskiy&color=58a6ff&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=marpelskiy&label=%E2%8F%B0%20SYSTEM%20TIME&color=161b22&style=for-the-badge"
 />
 
 <br><br>
 
 <img 
-src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9qNHJ6dWplb2V0Nm5hMzg4NHA0dGIzZXM0ODg4bjFpbDl2dmE5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wsLkjgj5Rsehq/giphy.gif" 
-width="420px"
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9qNHJ6dWplb2V0Nm5hMzg4NHA0dGIzZXM0ODg4bjFpbDl2dmE5cSZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9Zw/wsLkjgj5Rsehq/giphy.gif"
+    width="420px"
 />
 
 </div>
