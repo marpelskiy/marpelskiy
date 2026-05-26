@@ -1,14 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
 
   <defs>
+
     <!-- мягкая 3D тень -->
     <filter id="shadow">
       <feOffset dx="5" dy="5" result="off"/>
       <feGaussianBlur in="off" stdDeviation="2.2" result="blur"/>
       <feColorMatrix in="blur" type="matrix"
         values="0 0 0 0 0
-                0 0 0 0 0
-                0 0 0 0 0
+                0 0 0 0 0.2
+                0 0 0 0 0.35
                 0 0 0 0.25 0"/>
       <feMerge>
         <feMergeNode/>
@@ -20,16 +21,16 @@
       text {
         font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
         font-weight: 900;
-        fill: #3a3a3a;
         letter-spacing: 1px;
       }
     </style>
+
   </defs>
 
-  <!-- задний слой (глубина) -->
+  <!-- задний слой -->
   <text x="50%" y="52%" text-anchor="middle"
         font-size="120"
-        fill="#8a8a8a"
+        fill="#60a5fa"
         opacity="0.25">
     marpelskiy
   </text>
@@ -38,24 +39,28 @@
   <g filter="url(#shadow)">
 
     <text x="50%" y="50%" text-anchor="middle"
-          font-size="120">
+          font-size="120"
+          fill="#22c55e">
 
       marpelskiy
 
-      <!-- плавная синус-волна -->
-      <animate attributeName="y"
-        dur="7s"
+      <!-- МЯГКАЯ БЕСКОНЕЧНАЯ ВОЛНА (без ломания) -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        dur="6s"
         repeatCount="indefinite"
-        values="150;145;140;145;150;155;150"
-        keyTimes="0;0.16;0.33;0.5;0.66;0.83;1"
-        calcMode="spline"
-        keySplines="
-          0.42 0 0.58 1;
-          0.42 0 0.58 1;
-          0.42 0 0.58 1;
-          0.42 0 0.58 1;
-          0.42 0 0.58 1;
-          0.42 0 0.58 1"/>
+        values="
+          0 0;
+          0 -4;
+          0 -6;
+          0 -4;
+          0 0;
+          0 4;
+          0 6;
+          0 4;
+          0 0"
+        calcMode="linear"/>
     </text>
 
   </g>
