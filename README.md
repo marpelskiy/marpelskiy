@@ -89,25 +89,10 @@ s010vloon — Contributed custom tools for knowledge base integration.
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-
 <b>TOTAL VISITORS</b>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=marpelskiy&style=for-the-badge&color=2b3137" />
-
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<img 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9qNHJ6dWplb2V0Nm5hMzg4NHA0dGIzZXM0ODg4bjFpbDl2dmE5cSZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9Zw/wsLkjgj5Rsehq/giphy.gif"
-    width="420px"
-/>
 
 </div>
