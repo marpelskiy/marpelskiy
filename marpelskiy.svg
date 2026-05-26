@@ -1,122 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+
   <defs>
-
-    <!-- стильный шрифт -->
-    <style>
-      text {
-        font-family: 'JetBrains Mono', 'Consolas', monospace;
-        font-weight: 600;
-      }
-    </style>
-
-    <!-- 3D тень -->
+    <!-- мягкая 3D тень -->
     <filter id="shadow">
-      <feDropShadow dx="4" dy="6" stdDeviation="2" flood-color="#003b1a"/>
+      <feOffset dx="5" dy="5" result="off"/>
+      <feGaussianBlur in="off" stdDeviation="2.2" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="0 0 0 0 0
+                0 0 0 0 0
+                0 0 0 0 0
+                0 0 0 0.25 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
 
+    <style>
+      text {
+        font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+        font-weight: 900;
+        fill: #3a3a3a;
+        letter-spacing: 1px;
+      }
+    </style>
   </defs>
 
-  <rect width="100%" height="100%" fill="black"/>
+  <!-- задний слой (глубина) -->
+  <text x="50%" y="52%" text-anchor="middle"
+        font-size="120"
+        fill="#8a8a8a"
+        opacity="0.25">
+    marpelskiy
+  </text>
 
-  <!-- группа текста -->
-  <g font-size="72" fill="#00ff66" filter="url(#shadow)">
+  <!-- основной слой -->
+  <g filter="url(#shadow)">
 
-    <!-- каждый символ = часть синус-волны -->
+    <text x="50%" y="50%" text-anchor="middle"
+          font-size="120">
 
-    <text x="250" y="130">
-      m
+      marpelskiy
+
+      <!-- плавная синус-волна -->
       <animate attributeName="y"
-        dur="3.5s"
+        dur="7s"
         repeatCount="indefinite"
-        values="130;110;130;150;130"
-        keyTimes="0;0.25;0.5;0.75;1"
+        values="150;145;140;145;150;155;150"
+        keyTimes="0;0.16;0.33;0.5;0.66;0.83;1"
         calcMode="spline"
-        keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
-    </text>
-
-    <text x="300" y="130">
-      a
-      <animate attributeName="y"
-        dur="3.5s"
-        begin="0.1s"
-        repeatCount="indefinite"
-        values="130;110;130;150;130"
-        keyTimes="0;0.25;0.5;0.75;1"
-        calcMode="spline"
-        keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
-    </text>
-
-    <text x="340" y="130">
-      r
-      <animate attributeName="y"
-        dur="3.5s"
-        begin="0.2s"
-        repeatCount="indefinite"
-        values="130;110;130;150;130"/>
-    </text>
-
-    <text x="380" y="130">
-      p
-      <animate attributeName="y"
-        dur="3.5s"
-        begin="0.3s"
-        repeatCount="indefinite"
-        values="130;110;130;150;130"/>
-    </text>
-
-    <text x="420" y="130">
-      e
-      <animate attributeName="y"
-        dur="3.5s"
-        begin="0.4s"
-        repeatCount="indefinite"
-        values="130;110;130;150;130"/>
-    </text>
-
-    <text x="460" y="130">
-      l
-      <animate attributeName="y"
-        dur="3.5s"
-        begin="0.5s"
-        repeatCount="indefinite"
-        values="130;110;130;150;130"/>
-    </text>
-
-    <text x="500" y="130">
-      s
-      <animate attributeName="y"
-        dur="3.5s"
-        begin="0.6s"
-        repeatCount="indefinite"
-        values="130;110;130;150;130"/>
-    </text>
-
-    <text x="540" y="130">
-      k
-      <animate attributeName="y"
-        dur="3.5s"
-        begin="0.7s"
-        repeatCount="indefinite"
-        values="130;110;130;150;130"/>
-    </text>
-
-    <text x="580" y="130">
-      i
-      <animate attributeName="y"
-        dur="3.5s"
-        begin="0.8s"
-        repeatCount="indefinite"
-        values="130;110;130;150;130"/>
-    </text>
-
-    <text x="620" y="130">
-      y
-      <animate attributeName="y"
-        dur="3.5s"
-        begin="0.9s"
-        repeatCount="indefinite"
-        values="130;110;130;150;130"/>
+        keySplines="
+          0.42 0 0.58 1;
+          0.42 0 0.58 1;
+          0.42 0 0.58 1;
+          0.42 0 0.58 1;
+          0.42 0 0.58 1;
+          0.42 0 0.58 1"/>
     </text>
 
   </g>
+
 </svg>
