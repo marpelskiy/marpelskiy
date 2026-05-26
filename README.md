@@ -65,13 +65,13 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
 ## Security Research
 | Target | Vulnerabilities | Time | Status |
 |---|---|---|---|
-| [![OpenVk](https://img.shields.io/badge/OpenVk-Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://openvk.su) | `10 (8 critical)` | `3h (team)` | ![closed](https://img.shields.io/badge/closed-dc2626?style=for-the-badge&logo=github&logoColor=white) |
-| [![mineblaze](https://img.shields.io/badge/mineblaze.net-Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mineblaze.net) | `10` | `1h` | ![closed](https://img.shields.io/badge/closed-dc2626?style=for-the-badge&logo=github&logoColor=white) |
-| [![tgpremka](https://img.shields.io/badge/tgpremka-Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tgpremka.example) | `13` | `34m` | ![closed](https://img.shields.io/badge/closed-dc2626?style=for-the-badge&logo=github&logoColor=white) |
-| [![musteryworld](https://img.shields.io/badge/musteryworld.net-Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://musteryworld.net) | `10` | `40m` | ![closed](https://img.shields.io/badge/closed-dc2626?style=for-the-badge&logo=github&logoColor=white) |
-| [![dexland](https://img.shields.io/badge/dexland.org-Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dexland.org) | `10` | `1h` | ![closed](https://img.shields.io/badge/closed-dc2626?style=for-the-badge&logo=github&logoColor=white) |
-| [![lainlife](https://img.shields.io/badge/lainlife.ru-Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lainlife.ru) | `19` | `~2h (team)` | ![closed](https://img.shields.io/badge/closed-dc2626?style=for-the-badge&logo=github&logoColor=white) |
-| [![rpmserver](https://img.shields.io/badge/rpmserver.com-Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rpmserver.com) | `9 (8 critical)` | `~4h (team)` | ![closed](https://img.shields.io/badge/closed-dc2626?style=for-the-badge&logo=github&logoColor=white) |
+| [![OpenVk](https://img.shields.io/badge/OpenVk-Visit%20Site-0f172a?style=for-the-badge&logo=icloud&logoColor=38bdf8)](https://openvk.su) | `10 (8 critical)` | `3h (team)` | ![closed](https://img.shields.io/badge/CLOSED-b91c1c?style=for-the-badge&logo=shield&logoColor=white) |
+| [![mineblaze](https://img.shields.io/badge/mineblaze.net-Visit%20Site-0f172a?style=for-the-badge&logo=icloud&logoColor=38bdf8)](https://mineblaze.net) | `10` | `1h` | ![closed](https://img.shields.io/badge/CLOSED-b91c1c?style=for-the-badge&logo=shield&logoColor=white) |
+| [![tgpremka](https://img.shields.io/badge/tgpremka-Visit%20Site-0f172a?style=for-the-badge&logo=icloud&logoColor=38bdf8)](https://tgpremka.example) | `13` | `34m` | ![closed](https://img.shields.io/badge/CLOSED-b91c1c?style=for-the-badge&logo=shield&logoColor=white) |
+| [![musteryworld](https://img.shields.io/badge/musteryworld.net-Visit%20Site-0f172a?style=for-the-badge&logo=icloud&logoColor=38bdf8)](https://musteryworld.net) | `10` | `40m` | ![closed](https://img.shields.io/badge/CLOSED-b91c1c?style=for-the-badge&logo=shield&logoColor=white) |
+| [![dexland](https://img.shields.io/badge/dexland.org-Visit%20Site-0f172a?style=for-the-badge&logo=icloud&logoColor=38bdf8)](https://dexland.org) | `10` | `1h` | ![closed](https://img.shields.io/badge/CLOSED-b91c1c?style=for-the-badge&logo=shield&logoColor=white) |
+| [![lainlife](https://img.shields.io/badge/lainlife.ru-Visit%20Site-0f172a?style=for-the-badge&logo=icloud&logoColor=38bdf8)](https://lainlife.ru) | `19` | `~2h (team)` | ![closed](https://img.shields.io/badge/CLOSED-b91c1c?style=for-the-badge&logo=shield&logoColor=white) |
+| [![rpmserver](https://img.shields.io/badge/rpmserver.com-Visit%20Site-0f172a?style=for-the-badge&logo=icloud&logoColor=38bdf8)](https://rpmserver.com) | `9 (8 critical)` | `~4h (team)` | ![closed](https://img.shields.io/badge/CLOSED-b91c1c?style=for-the-badge&logo=shield&logoColor=white) |
 ---
 
 ## Collaborations
