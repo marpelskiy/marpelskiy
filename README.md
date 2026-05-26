@@ -57,6 +57,7 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
 | C0ck Obfuscator | Custom file obfuscation engine |
 | webSosint | Domain intelligence & OSINT automation framework |
 | NetMorph | Privacy lab for browser fingerprint evasion, dynamic identity generation, and Tor-based browsing isolation |
+| MetaPoisoner | Advanced C++ utility for deep metadata rewriting, realistic device fingerprint emulation, and stealth PNG/EXIF manipulation with anti-forensics capabilities |
 
 
 ---
