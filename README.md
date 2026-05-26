@@ -93,19 +93,31 @@ s010vloon — Contributed custom tools for knowledge base integration.
   <tr>
     <td align="center" style="border-radius:12px; padding:18px; background-color:#0d1117;">
 
-⏱️ <b>SYSTEM CLOCK</b><br><br>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=marpelskiy&label=VISITS&color=2b3137&style=for-the-badge" />
+<table>
+  <tr>
+    <td align="center" style="background-color:#0d1117; padding:20px 40px; border-radius:12px;">
 
-<br><br>
+<div style="font-size:22px; font-weight:700; color:#c9d1d9; letter-spacing:2px;">
+TOTAL VISITORS
+</div>
 
-<img 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9qNHJ6dWplb2V0Nm5hMzg4NHA0dGIzZXM0ODg4bjFpbDl2dmE5cSZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9Zw/wsLkjgj5Rsehq/giphy.gif"
-    width="380px"
-/>
+<br>
+
+<div>
+<img src="https://komarev.com/ghpvc/?username=marpelskiy&color=2b3137&style=for-the-badge&label=" />
+</div>
 
     </td>
   </tr>
 </table>
+
+<br>
+
+<img 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9qNHJ6dWplb2V0Nm5hMzg4NHA0dGIzZXM0ODg4bjFpbDl2dmE5cSZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9Zw/wsLkjgj5Rsehq/giphy.gif"
+    width="420px"
+/>
 
 </div>
