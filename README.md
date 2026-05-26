@@ -90,9 +90,6 @@ s010vloon — Contributed custom tools for knowledge base integration.
 <div align="center">
 
 <b>TOTAL VISITORS</b>
-
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=marpelskiy&style=for-the-badge&color=2b3137" />
-
 </div>
