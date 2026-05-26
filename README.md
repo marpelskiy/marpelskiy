@@ -91,23 +91,13 @@ s010vloon — Contributed custom tools for knowledge base integration.
 
 <table>
   <tr>
-    <td align="center" style="border-radius:12px; padding:18px; background-color:#0d1117;">
+    <td align="center">
 
-<div align="center">
+<b>TOTAL VISITORS</b>
 
-<table>
-  <tr>
-    <td align="center" style="background-color:#0d1117; padding:20px 40px; border-radius:12px;">
+<br><br>
 
-<div style="font-size:22px; font-weight:700; color:#c9d1d9; letter-spacing:2px;">
-TOTAL VISITORS
-</div>
-
-<br>
-
-<div>
-<img src="https://komarev.com/ghpvc/?username=marpelskiy&color=2b3137&style=for-the-badge&label=" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=marpelskiy&style=for-the-badge&color=2b3137" />
 
     </td>
   </tr>
