@@ -77,7 +77,7 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
 
 ## Collaborations
 
-s010vloon — Contributed 3 custom tools for knowledge base integration.
+s010vloon — Contributed custom tools for knowledge base integration.
 
 ---
 
