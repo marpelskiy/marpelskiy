@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250">
+  <defs>
+
+    <!-- стильный шрифт -->
+    <style>
+      text {
+        font-family: 'JetBrains Mono', 'Consolas', monospace;
+        font-weight: 600;
+      }
+    </style>
+
+    <!-- 3D тень -->
+    <filter id="shadow">
+      <feDropShadow dx="4" dy="6" stdDeviation="2" flood-color="#003b1a"/>
+    </filter>
+
+  </defs>
+
+  <rect width="100%" height="100%" fill="black"/>
+
+  <!-- группа текста -->
+  <g font-size="72" fill="#00ff66" filter="url(#shadow)">
+
+    <!-- каждый символ = часть синус-волны -->
+
+    <text x="250" y="130">
+      m
+      <animate attributeName="y"
+        dur="3.5s"
+        repeatCount="indefinite"
+        values="130;110;130;150;130"
+        keyTimes="0;0.25;0.5;0.75;1"
+        calcMode="spline"
+        keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    </text>
+
+    <text x="300" y="130">
+      a
+      <animate attributeName="y"
+        dur="3.5s"
+        begin="0.1s"
+        repeatCount="indefinite"
+        values="130;110;130;150;130"
+        keyTimes="0;0.25;0.5;0.75;1"
+        calcMode="spline"
+        keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    </text>
+
+    <text x="340" y="130">
+      r
+      <animate attributeName="y"
+        dur="3.5s"
+        begin="0.2s"
+        repeatCount="indefinite"
+        values="130;110;130;150;130"/>
+    </text>
+
+    <text x="380" y="130">
+      p
+      <animate attributeName="y"
+        dur="3.5s"
+        begin="0.3s"
+        repeatCount="indefinite"
+        values="130;110;130;150;130"/>
+    </text>
+
+    <text x="420" y="130">
+      e
+      <animate attributeName="y"
+        dur="3.5s"
+        begin="0.4s"
+        repeatCount="indefinite"
+        values="130;110;130;150;130"/>
+    </text>
+
+    <text x="460" y="130">
+      l
+      <animate attributeName="y"
+        dur="3.5s"
+        begin="0.5s"
+        repeatCount="indefinite"
+        values="130;110;130;150;130"/>
+    </text>
+
+    <text x="500" y="130">
+      s
+      <animate attributeName="y"
+        dur="3.5s"
+        begin="0.6s"
+        repeatCount="indefinite"
+        values="130;110;130;150;130"/>
+    </text>
+
+    <text x="540" y="130">
+      k
+      <animate attributeName="y"
+        dur="3.5s"
+        begin="0.7s"
+        repeatCount="indefinite"
+        values="130;110;130;150;130"/>
+    </text>
+
+    <text x="580" y="130">
+      i
+      <animate attributeName="y"
+        dur="3.5s"
+        begin="0.8s"
+        repeatCount="indefinite"
+        values="130;110;130;150;130"/>
+    </text>
+
+    <text x="620" y="130">
+      y
+      <animate attributeName="y"
+        dur="3.5s"
+        begin="0.9s"
+        repeatCount="indefinite"
+        values="130;110;130;150;130"/>
+    </text>
+
+  </g>
+</svg>
