@@ -18,7 +18,7 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
@@ -31,7 +31,7 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
 
 ---
 
-## OS & Systems
+## 💻 OS & Systems
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-0f172a?style=for-the-badge&logo=archlinux&logoColor=1793D1"/>
@@ -47,7 +47,7 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
 
 ---
 
-## Projects
+## 🚀 Projects
 
 | Project | Description |
 |---|---|
@@ -62,7 +62,7 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
 
 ---
 
-## Security Research
+## 🔐 Closed Cases
 | Target | Vulnerabilities | Time | Status |
 |---|---|---|---|
 | [![OpenVk](https://img.shields.io/badge/OpenVk-Visit%20Site-2563eb?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://openvk.su) | `10 (8 critical)` | `3h (team)` | ![closed](https://img.shields.io/badge/CLOSED-ef4444?style=for-the-badge&logo=shield&logoColor=white) |
@@ -74,13 +74,13 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
 | [![rpmserver](https://img.shields.io/badge/rpmserver.com-Visit%20Site-2563eb?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://rpmserver.com) | `9 (8 critical)` | `~4h (team)` | ![closed](https://img.shields.io/badge/CLOSED-ef4444?style=for-the-badge&logo=shield&logoColor=white) |
 ---
 
-## Collaborations
+## 🤝 Collaborations
 
 s010vloon — Contributed custom tools for knowledge base integration.
 
 ---
 
-## Contact
+## 📬 Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Localhost54-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Localhost54)
 [![Email](https://img.shields.io/badge/Email-marpelskiy98@cocaine.ninja-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:marpelskiy98@cocaine.ninja)
