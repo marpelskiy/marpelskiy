@@ -65,13 +65,13 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
 ## Security Research
 | Target | Vulnerabilities | Time | Status |
 |---|---|---|---|
-| [![OpenVk](https://img.shields.io/badge/🌐_OpenVk-Visit_website-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://openvk.su) | `10 (8 critical)` | `3h (team)` | ![closed](https://img.shields.io/badge/🔒_closed-ff4d4d?style=for-the-badge) |
-| [![mineblaze](https://img.shields.io/badge/⛏️_mineblaze.net-Visit_website-f59e0b?style=for-the-badge&logo=minecraft&logoColor=white)](https://mineblaze.net) | `10` | `1h` | ![closed](https://img.shields.io/badge/🔒_closed-ff4d4d?style=for-the-badge) |
-| [![tgpremka](https://img.shields.io/badge/📦_tgpremka-Visit_website-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white)](https://tgpremka.example) | `13` | `34m` | ![closed](https://img.shields.io/badge/🔒_closed-ff4d4d?style=for-the-badge) |
-| [![musteryworld](https://img.shields.io/badge/🌍_musteryworld.net-Visit_website-10b981?style=for-the-badge&logo=cloudflare&logoColor=white)](https://musteryworld.net) | `10` | `40m` | ![closed](https://img.shields.io/badge/🔒_closed-ff4d4d?style=for-the-badge) |
-| [![dexland](https://img.shields.io/badge/⚡_dexland.org-Visit_website-8b5cf6?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://dexland.org) | `10` | `1h` | ![closed](https://img.shields.io/badge/🔒_closed-ff4d4d?style=for-the-badge) |
-| [![lainlife](https://img.shields.io/badge/💀_lainlife.ru-Visit_website-111827?style=for-the-badge&logo=torbrowser&logoColor=white)](https://lainlife.ru) | `19` | `~2h (team)` | ![closed](https://img.shields.io/badge/🔒_closed-ff4d4d?style=for-the-badge) |
-| [![rpmserver](https://img.shields.io/badge/🖥️_rpmserver.com-Visit_website-ef4444?style=for-the-badge&logo=linux&logoColor=white)](https://rpmserver.com) | `9 (8 critical)` | `~4h (team)` | ![closed](https://img.shields.io/badge/🔒_closed-ff4d4d?style=for-the-badge) |
+| [![OpenVk](https://img.shields.io/badge/OpenVk-Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://openvk.su) | `10 (8 critical)` | `3h (team)` | ![closed](https://img.shields.io/badge/closed-dc2626?style=for-the-badge&logo=github&logoColor=white) |
+| [![mineblaze](https://img.shields.io/badge/mineblaze.net-Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mineblaze.net) | `10` | `1h` | ![closed](https://img.shields.io/badge/closed-dc2626?style=for-the-badge&logo=github&logoColor=white) |
+| [![tgpremka](https://img.shields.io/badge/tgpremka-Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tgpremka.example) | `13` | `34m` | ![closed](https://img.shields.io/badge/closed-dc2626?style=for-the-badge&logo=github&logoColor=white) |
+| [![musteryworld](https://img.shields.io/badge/musteryworld.net-Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://musteryworld.net) | `10` | `40m` | ![closed](https://img.shields.io/badge/closed-dc2626?style=for-the-badge&logo=github&logoColor=white) |
+| [![dexland](https://img.shields.io/badge/dexland.org-Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dexland.org) | `10` | `1h` | ![closed](https://img.shields.io/badge/closed-dc2626?style=for-the-badge&logo=github&logoColor=white) |
+| [![lainlife](https://img.shields.io/badge/lainlife.ru-Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lainlife.ru) | `19` | `~2h (team)` | ![closed](https://img.shields.io/badge/closed-dc2626?style=for-the-badge&logo=github&logoColor=white) |
+| [![rpmserver](https://img.shields.io/badge/rpmserver.com-Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rpmserver.com) | `9 (8 critical)` | `~4h (team)` | ![closed](https://img.shields.io/badge/closed-dc2626?style=for-the-badge&logo=github&logoColor=white) |
 ---
 
 ## Collaborations
