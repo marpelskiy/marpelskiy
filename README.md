@@ -27,6 +27,13 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
   <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/ASM-0f172a?style=for-the-badge&logo=assemblyscript&logoColor=6E4A7E"/>
   <img src="https://img.shields.io/badge/MCU-0f172a?style=for-the-badge&logo=microchip&logoColor=00979D"/>
+
+  <img src="https://img.shields.io/badge/Coding-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/OSINT-0f172a?style=for-the-badge&logo=protonmail&logoColor=8B89CC"/>
+  <img src="https://img.shields.io/badge/Reverse_Engineering-0f172a?style=for-the-badge&logo=gnubash&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/Web_Pentest-0f172a?style=for-the-badge&logo=owasp&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Malware_Analysis-0f172a?style=for-the-badge&logo=virustotal&logoColor=3E7BFA"/>
+
 </p>
 
 ---
