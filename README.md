@@ -30,12 +30,12 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
 
 
 
- <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Coding-0f172a?style=for-the-badge&logo=neovim&logoColor=57A143"/>
   <img src="https://img.shields.io/badge/OSINT-0f172a?style=for-the-badge&logo=spyderide&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Reverse_Engineering-0f172a?style=for-the-badge&logo=ida&logoColor=A5FF5C"/>
+  <img src="https://img.shields.io/badge/IDA_Pro-0f172a?style=for-the-badge&logo=ida&logoColor=A5FF5C"/>
   <img src="https://img.shields.io/badge/Web_Pentest-0f172a?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139"/>
-  <img src="https://img.shields.io/badge/Malware_Analysis-0f172a?style=for-the-badge&logo=virustotal&logoColor=3E7BFA"/>
+  <img src="https://img.shields.io/badge/Malware_Analysis-0f172a?style=for-the-badge&logo=virusshare&logoColor=FF4D4D"/>
 </p>
 
 ---
