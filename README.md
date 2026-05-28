@@ -29,11 +29,12 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
   <img src="https://img.shields.io/badge/MCU-0f172a?style=for-the-badge&logo=microchip&logoColor=00979D"/>
 
 
-  <img src="https://img.shields.io/badge/Coding-0f172a?style=for-the-badge&logo=githubcopilot&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/OSINT-0f172a?style=for-the-badge&logo=torbrowser&logoColor=7D4698"/>
-  <img src="https://img.shields.io/badge/Reverse_Engineering-0f172a?style=for-the-badge&logo=llvm&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Web_Pentest-0f172a?style=for-the-badge&logo=kalilinux&logoColor=1793D1"/>
-  <img src="https://img.shields.io/badge/Malware_Analysis-0f172a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+
+  <img src="https://img.shields.io/badge/Coding-0f172a?style=for-the-badge&logo=codeforces&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/OSINT-0f172a?style=for-the-badge&logo=google&logoColor=4285F4"/>
+  <img src="https://img.shields.io/badge/Reverse_Engineering-0f172a?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/Web_Pentest-0f172a?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139"/>
+  <img src="https://img.shields.io/badge/Malware_Analysis-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 </p>
 
 ---
