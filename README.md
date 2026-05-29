@@ -52,6 +52,10 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
   <img src="https://img.shields.io/badge/Whonix-0f172a?style=for-the-badge&logo=torproject&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently_on-Arch_Linux-0f172a?style=for-the-badge&logo=archlinux&logoColor=1793D1"/>
+</p>
+
 
 ---
 
