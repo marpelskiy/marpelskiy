@@ -3,9 +3,8 @@
 <img src="marpelskiy.svg" alt="marpelskiy" />
 <div align="center">
 
-<a href="https://www.donationalerts.com/r/marpelskiy">
-  <img src="https://img.shields.io/badge/🚨%20DONATE%20%2F%20SUPPORT%20PROJECT-CLICK%20HERE%20TO%20SUPPORT-ff0033?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=000000" height="60"/>
-</a>
+
+
 
 </div>
 
@@ -72,6 +71,7 @@ Systems & Security Engineer · [un-sec team](https://un-sec.github.io)
 | MetaPoisoner | Advanced C++ utility for deep metadata rewriting, realistic device fingerprint emulation, and stealth PNG/EXIF manipulation with anti-forensics capabilities |
 | devReplay | is a local time-machine for code that auto-saves file changes and lets you restore past working states without Git |
 | readmeGEN | AI-powered description generator for your projects |
+| KnotTrace | Infrastructure visualization tool that turns OSINT data into interactive graphs |
 ---
 
 ## 🔐 Closed Cases
