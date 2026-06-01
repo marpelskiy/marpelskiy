@@ -95,7 +95,7 @@ s010vloon — Contributed custom tools for knowledge base integration.
 
 ## 📬 Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-@CyberPhobia8-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/CyberPhobia8)
+[![Telegram](https://img.shields.io/badge/Telegram-@ParanoidOpsec-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ParanoidOpsec)
 [![Email](https://img.shields.io/badge/Email-marpelskiy98@cocaine.ninja-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:marpelskiy98@cocaine.ninja)
 
 ---
